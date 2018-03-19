@@ -1,0 +1,42 @@
+title: ‧₊˚✩ girlgroups.tk
+author: choerryvelvet
+description: >-
+  🌙🤟
+baseurl: ""
+url: ""
+locale:       en-US
+lang:         en-US
+encoding:     "utf-8"
+
+social_image_path:  /moon.png
+social_logo_path:   /moon.png
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+plugins:
+  - jekyll-feed
+sass:
+  sass_dir: _scss
+
+# Exclude from site build
+exclude:
+  - .DS_Store
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Collections
+collections:
+  category:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "category"
+    values:
+      layout: "category"

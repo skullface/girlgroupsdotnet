@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+  line-height: 1.2;
+  font-size: 12px;
+}
+
+.page-content {
+  display: flex;
+  margin: 20px;
+}
+
+.posts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.post {
+  max-width: 300px;
+  margin: 0 20px 20px 20px;
+}
+
+.post_info ul {
+  list-style: none;
+  padding-left: 0;
+  li {
+    display: inline-block;
+  }
+  li:not(:last-child):after {
+    content: "·"
+  }
+}
+
+figcaption {
+  margin-top: 5px;
+}

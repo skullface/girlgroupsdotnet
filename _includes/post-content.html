@@ -1,0 +1,28 @@
+<div class="post">
+  <figure>
+    <img src="/wallpaper/girlgroups.tk__{{ post.img }}">
+    <figcaption class="post_info">
+      <ul>
+        <li>
+
+          {% if post %}
+            {% assign categories = post.categories %}
+          {% else %}
+            {% assign categories = page.categories %}
+          {% endif %}
+          {% for category in categories %}
+            #<a href="{{ site.baseurl }}/{{ category | slugize }}">{{ category }}</a>
+          {% endfor %}
+        </li>
+        <li>
+          {{ post.era-or-event }}
+        </li>
+        {% if post.photo-credit %}
+          <li>
+            photo cr {{ post.photo-credit }}
+          </li>
+        {% endif %}
+      </ul>
+    </figcaption>
+  </figure>
+</div>
