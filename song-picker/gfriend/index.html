@@ -1,0 +1,398 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="text/javascript">
+  var namMember = new Array(
+    "Intro (Season of Glass)",
+    "Glass Bead",
+    "Neverland",
+    "White",
+    "Intro (Flower Bud)",
+    "Me Gustas Tu",
+    "Under the Sky",
+    "One",
+    "My Buddy",
+    "Intro (Snowflake)",
+    "Rough",
+    "Say My Name",
+    "Luv Star",
+    "Someday",
+    "Trust",
+    "Hear the Wind Sing",
+    "Fingertip",
+    "Contrail",
+    "Please Save My Earth",
+    "Rain In The Spring Time",
+    "Crush",
+    "Intro (Belief)",
+    "Love Whisper",
+    "Ave Maria",
+    "One Half",
+    "Life Is a Party",
+    "Red Umbrella",
+    "Falling Asleep Again",
+    "Summer Rain",
+    "Rainbow",
+    "Intro (LOL)",
+    "Fall in Love",
+    "NAVILLERA",
+    "LOL",
+    "Distance",
+    "Water Flower",
+    "Mermaid",
+    "Sunshine",
+    "Compas",
+    "Click",
+    "Gone With The Wind"
+  );
+
+  var lstMember = new Array();
+  var parent = new Array();
+  var equal = new Array();
+  var rec = new Array();
+  var cmp1,cmp2;
+  var head1,head2;
+  var nrec;
+  var numQuestion;
+  var totalSize;
+  var finishSize;
+  var finishFlag;
+
+  function initList(){
+    var n = 0;
+    var mid;
+    var i;
+
+    lstMember[n] = new Array();
+
+    for (i=0; i<namMember.length; i++) {
+      lstMember[n][i] = i;
+    }
+
+    parent[n] = -1;
+    totalSize = 0;
+    n++;
+
+    for (i=0; i<lstMember.length; i++) {
+      if(lstMember[i].length>=2) {
+        mid = Math.ceil(lstMember[i].length/2);
+        lstMember[n] = new Array();
+        lstMember[n] = lstMember[i].slice(0,mid);
+        totalSize += lstMember[n].length;
+        parent[n] = i;
+        n++;
+        lstMember[n] = new Array();
+        lstMember[n] = lstMember[i].slice(mid,lstMember[i].length);
+        totalSize += lstMember[n].length;
+        parent[n] = i;
+        n++;
+      }
+    }
+
+    for (i=0; i<namMember.length; i++) {
+      rec[i] = 0;
+    }
+
+    nrec = 0;
+
+    for (i=0; i<=namMember.length; i++) {
+      equal[i] = -1;
+    }
+
+    cmp1 = lstMember.length-2;
+    cmp2 = lstMember.length-1;
+    head1 = 0;
+    head2 = 0;
+    numQuestion = 1;
+    finishSize = 0;
+    finishFlag = 0;
+  }
+
+  function sortList(flag){
+    var i;
+    var str;
+
+    if (flag<0) {
+      rec[nrec] = lstMember[cmp1][head1];
+      head1++;
+      nrec++;
+      finishSize++;
+
+      while (equal[rec[nrec-1]]!=-1) {
+        rec[nrec] = lstMember[cmp1][head1];
+        head1++;
+        nrec++;
+        finishSize++;
+      }
+    }
+
+    else if (flag>0) {
+      rec[nrec] = lstMember[cmp2][head2];
+      head2++;
+      nrec++;
+      finishSize++;
+
+      while (equal[rec[nrec-1]]!=-1) {
+        rec[nrec] = lstMember[cmp2][head2];
+        head2++;
+        nrec++;
+        finishSize++;
+      }
+    }
+
+    else {
+      rec[nrec] = lstMember[cmp1][head1];
+      head1++;
+      nrec++;
+      finishSize++;
+        while (equal[rec[nrec-1]]!=-1) {
+          rec[nrec] = lstMember[cmp1][head1];
+          head1++;
+          nrec++;
+          finishSize++;
+        }
+      equal[rec[nrec-1]] = lstMember[cmp2][head2];
+      rec[nrec] = lstMember[cmp2][head2];
+      head2++;
+      nrec++;
+      finishSize++;
+      while (equal[rec[nrec-1]]!=-1) {
+        rec[nrec] = lstMember[cmp2][head2];
+        head2++;
+        nrec++;
+        finishSize++;
+      }
+    }
+
+    if (head1<lstMember[cmp1].length && head2==lstMember[cmp2].length) {
+      while (head1<lstMember[cmp1].length){
+        rec[nrec] = lstMember[cmp1][head1];
+        head1++;
+        nrec++;
+        finishSize++;
+      }
+    }
+
+    else if (head1==lstMember[cmp1].length && head2<lstMember[cmp2].length) {
+      while (head2<lstMember[cmp2].length){
+        rec[nrec] = lstMember[cmp2][head2];
+        head2++;
+        nrec++;
+        finishSize++;
+      }
+    }
+
+    if (head1==lstMember[cmp1].length && head2==lstMember[cmp2].length) {
+
+      for (i=0; i<lstMember[cmp1].length+lstMember[cmp2].length; i++) {
+        lstMember[parent[cmp1]][i] = rec[i];
+      }
+
+    lstMember.pop();
+    lstMember.pop();
+    cmp1 = cmp1-2;
+    cmp2 = cmp2-2;
+    head1 = 0;
+    head2 = 0;
+
+    if (head1==0 && head2==0) {
+      for (i=0; i<namMember.length; i++) {
+        rec[i] = 0;
+      }
+      nrec = 0;
+    }
+  }
+
+  if (cmp1<0) {
+    str = "<strong>battle #"+(numQuestion-1)+"</strong>("+Math.floor(finishSize*100/totalSize)+"% sorted!)";
+    document.getElementById("battleNumber").innerHTML = str;
+    showResult();
+    finishFlag = 1;
+  }
+
+  else {
+    showImage();
+  }
+}
+
+function showResult() {
+  var ranking = 1;
+  var sameRank = 1;
+  var str = "";
+  var i;
+
+  str += "<table class='results'>";
+
+  str += "<thead><tr><th class='ranking'>rank</th><th class='best-girl'>best track</th></tr></thead><tbody>";
+
+  for (i=0; i<namMember.length; i++) {
+    str += "<tr><td class='ranking'>"+ranking+"<\/td><td class='best-girl'>"+namMember[lstMember[0][i]]+"<\/td><\/tr>";
+
+    if (i<namMember.length-1) {
+      if (equal[lstMember[0][i]]==lstMember[0][i+1]) {
+        sameRank++;
+      }
+
+      else {
+        ranking += sameRank;
+        sameRank = 1;
+      }
+    }
+  }
+
+  str += "</tbody></table>";
+  document.getElementById("resultField").innerHTML = str;
+}
+
+function showImage() {
+  var str0 = "<strong>battle #"+numQuestion+"</strong>("+Math.floor(finishSize*100/totalSize)+"% sorted)";
+  var str1 = ""+toNameFace(lstMember[cmp1][head1]);
+  var str2 = ""+toNameFace(lstMember[cmp2][head2]);
+
+  document.getElementById("battleNumber").innerHTML = str0;
+  document.getElementById("leftField").innerHTML = str1;
+  document.getElementById("rightField").innerHTML = str2;
+  numQuestion++;
+}
+
+function toNameFace(n){
+  var str = namMember[n];
+  return str;
+}
+</script>
+
+<style type="text/css">
+  #mainTable {
+    text-align: center;
+    vertical-align: middle;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 10px 5px;
+  }
+
+  .results {
+    border: solid 1px #bbb;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+  }
+
+  .results th,
+  .results td {
+    border-bottom: solid 1px #bbb;
+    padding: 5px;
+  }
+
+  .results .best-girl {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: 0;
+  }
+
+  .results .ranking {
+    border-right: solid 1px #bbb;
+    text-align: center;
+  }
+
+  #mainTable td:not(#battleNumber) {
+    cursor: pointer !important;
+    background: #111;
+    color: #fff;
+    width: 120px;
+    padding: 10px;
+  }
+
+
+  #mainTable td:not(#battleNumber).middleField {
+    width: 70px;
+  }
+
+  #leftField,
+  #rightField {
+    height: 150px;
+  }
+
+  .middleField {
+    height: 70px;
+  }
+
+  a {
+    color: #79a2c9;
+    text-decoration : none;
+  }
+
+  a:hover {
+    color: #8f8f8f;
+  }
+
+  body {
+    margin: 0 auto 40px auto;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+
+  p {
+    max-width: 20rem;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 12px;
+  }
+
+  strong {
+    display: block;
+  }
+</style>
+<title>gfriend song picker</title>
+<link rel="icon" type="image/png" href="../../moon.png">
+</head>
+
+<body>
+  <p>
+    <strong>🎀 gfriend song picker</strong>
+    choose which track you like better in each battle to get an accurate list of your favorite songs from the group.
+  </p>
+
+  <table id="mainTable" align="center">
+    <tbody>
+      <tr>
+        <td id="battleNumber" colspan="3" style="padding-bottom: 10px;"><strong>battle #1</strong><br>0% sorted.</td>
+      </tr>
+      <tr>
+        <td id="leftField" onclick="if(finishFlag==0) sortList(-1);" rowspan="2" style="text-align:center;">something didn’t load properly</td>
+        <td class="middleField" onclick="if(finishFlag==0) sortList(0);" style="text-align:center;">
+
+          tie!!
+
+        </td>
+        <td id="rightField" onclick="if(finishFlag==0) sortList(1);" rowspan="2" style="text-align:center;">oops, sorry :(</td>
+      </tr>
+      <tr>
+        <td class="middleField" onclick="if(finishFlag==0) sortList(0);" style="text-align:center;">
+
+          idc tbh
+
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <br><br>
+
+  <div id="resultField" style="text-align: center;">
+    <br>
+  </div>
+
+  <script type="text/javascript">
+    <!--
+
+    initList();
+
+    showImage();
+
+    //-->
+  </script>
+</body>
+</html>
