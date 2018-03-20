@@ -3,20 +3,22 @@
 
   {%- include head.html -%}
 
-  <body>
+<body>
 
-    <main class="page-content" aria-label="Content">
+  <p>
+    {{ content }}
+  </p>
 
-    {%- if site.posts.size > 0 -%}
-      <div class="posts">
-        {%- for post in site.posts -%}
-          {%- include post-content.html -%}
-        {%- endfor -%}
-      </div>
-    {%- endif -%}
+  <main class="page-content" aria-label="Content">
+  {%- if site.posts.size > 0 -%}
+    <div class="posts">
+      {%- for post in site.posts -%}
+        {%- include post-content.html -%}
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
 
-      {{ content }}
-  </main>
+</main>
 
 </body>
 </html>

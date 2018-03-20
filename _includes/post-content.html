@@ -1,10 +1,9 @@
 <div class="post">
   <figure>
-    <img src="/wallpaper/girlgroups.tk__{{ post.img }}">
+    <img src="/wallpaper/girlgroups.tk__{% if post %}{{ post.img }}{% else %}{{ page.img }}{% endif %}">
     <figcaption class="post_info">
       <ul>
         <li>
-
           {% if post %}
             {% assign categories = post.categories %}
           {% else %}
