@@ -1,0 +1,4 @@
+---
+tag: umji
+permalink: /umji
+---

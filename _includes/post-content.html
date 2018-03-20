@@ -14,12 +14,24 @@
           {% endfor %}
         </li>
         <li>
-          {{ post.era-or-event }}
+          {% if post %}
+            {{ post.era-or-event }}
+          {% else %}
+            {{ page.era-or-event }}
+          {% endif %}
         </li>
-        {% if post.photo-credit %}
-          <li>
-            photo cr {{ post.photo-credit }}
-          </li>
+        {% if post %}
+          {% if post.photo-credit %}
+            <li>
+              photo cr {{ post.photo-credit }}
+            </li>
+          {% endif %}
+        {% else %}
+          {% if page.photo-credit %}
+            <li>
+              photo cr {{ page.photo-credit }}
+            </li>
+          {% endif %}
         {% endif %}
       </ul>
     </figcaption>

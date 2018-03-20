@@ -1,0 +1,4 @@
+---
+tag: jinsoul
+permalink: /jinsoul
+---

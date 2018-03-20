@@ -1,0 +1,4 @@
+---
+tag: yerin
+permalink: /yerin
+---

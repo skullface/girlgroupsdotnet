@@ -4,15 +4,21 @@ body {
   font-size: 12px;
 }
 
-p {
-  margin: 20px auto 200px auto;
-  text-align: center;
+p,
+.page-title {
   max-width: 30rem;
+  margin: 20px auto;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 200px;
 }
 
 .page-content {
   display: flex;
   margin: 20px;
+  justify-content: center;
 }
 
 .posts {

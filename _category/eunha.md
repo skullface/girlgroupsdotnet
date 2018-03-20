@@ -1,4 +1,4 @@
 ---
 tag: eunha
-permalink: /gfrd/eunha
+permalink: /eunha
 ---

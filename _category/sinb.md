@@ -1,0 +1,4 @@
+---
+tag: sinb
+permalink: /sinb
+---

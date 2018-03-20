@@ -1,0 +1,4 @@
+---
+tag: yuju
+permalink: /yuju
+---

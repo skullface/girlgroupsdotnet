@@ -1,0 +1,4 @@
+---
+tag: haseul
+permalink: /haseul
+---

@@ -1,0 +1,4 @@
+---
+tag: group
+permalink: /group
+---

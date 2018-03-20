@@ -1,0 +1,4 @@
+---
+tag: twice
+permalink: /twice
+---

@@ -1,0 +1,4 @@
+---
+tag: gfriend
+permalink: /gfriend
+---

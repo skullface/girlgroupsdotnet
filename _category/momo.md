@@ -1,4 +1,4 @@
 ---
 tag: momo
-permalink: "/twice/momo"
+permalink: "/momo"
 ---

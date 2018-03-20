@@ -1,0 +1,4 @@
+---
+tag: chuu
+permalink: /chuu
+---
