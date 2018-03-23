@@ -1,7 +1,7 @@
 body {
-  font-family: "Roboto", "Arial", sans;
-  line-height: 1.45;
-  font-size: 12px;
+  font-family: "IBM Plex Sans", "Roboto", "Arial", sans;
+  line-height: 1.4;
+  font-size: 13px;
 }
 
 
@@ -22,12 +22,6 @@ p {
   justify-content: center;
 }
 
-.posts {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
 a {
   color: #111;
   font-weight: 700;
@@ -36,9 +30,89 @@ a {
   }
 }
 
+.posts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  @media screen and (max-width: 600px) {
+    justify-content: space-between;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .desktop {
+    display: inline-block;
+  }
+  .mobile {
+    display: none;
+  }
+}
+
+
 .post {
   max-width: 250px;
   margin: 0 20px 20px 20px;
+  @media screen and (max-width: 600px) {
+    max-width: calc(50% - 20px);
+    margin: 0 5px 20px 5px;
+  }
+}
+
+.image-link {
+  position: relative;
+	overflow: hidden;
+	backface-visibility: hidden;
+  transition: all 0.15s;
+
+  img {
+    position: relative;
+    transition: all 0.3s;
+  }
+
+  .download {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: #000;
+    line-height: 1;
+  	transition: all 0.3s;
+  	backface-visibility: hidden;
+    transform: translateY(200px);
+    opacity: 0;
+    span {
+      padding: 10px 20px;
+      border-radius: 20px;
+      background: #fff;
+      box-shadow: 0 2px 0 rgba(0,0,0,0.05),
+                  0 1px 10px rgba(0,0,0,0.1);
+    }
+  }
+
+  &:hover {
+    img {
+      opacity: 0.5;
+    }
+    .download {
+      transform: translateY(0px);
+      opacity: 1;
+    }
+  }
 }
 
 .post_info ul {
@@ -57,12 +131,8 @@ a {
 
 figcaption {
   margin-top: 10px;
-  a {
-    padding: 1px 3px;
-    margin-left: -2px;
-    &:hover {
-      text-decoration: none;
-      background: pink;
-    }
+  a:hover {
+    text-decoration-skip: ink;
+    text-decoration-color: #999;
   }
 }
