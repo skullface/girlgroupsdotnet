@@ -1,8 +1,9 @@
 body {
-  font-family: Arial;
-  line-height: 1.2;
+  font-family: "Roboto", "Arial", sans;
+  line-height: 1.45;
   font-size: 12px;
 }
+
 
 p,
 .page-title {
@@ -27,22 +28,41 @@ p {
   justify-content: center;
 }
 
+a {
+  color: #111;
+  font-weight: 700;
+  &:hover {
+    color: inherit;
+  }
+}
+
 .post {
-  max-width: 300px;
+  max-width: 250px;
   margin: 0 20px 20px 20px;
 }
 
 .post_info ul {
   list-style: none;
   padding-left: 0;
+  margin-bottom: 0;
   li {
-    display: inline-block;
+    display: inline;
   }
   li:not(:last-child):after {
-    content: "·"
+    content: '\00B7';
+    color: #999;
+    margin: 0 4px 0 3px;
   }
 }
 
 figcaption {
-  margin-top: 5px;
+  margin-top: 10px;
+  a {
+    padding: 1px 3px;
+    margin-left: -2px;
+    &:hover {
+      text-decoration: none;
+      background: pink;
+    }
+  }
 }

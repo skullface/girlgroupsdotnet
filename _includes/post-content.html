@@ -1,6 +1,6 @@
 <div class="post">
   <figure>
-    <img src="/wallpaper/girlgroups.tk__{% if post %}{{ post.img }}{% else %}{{ page.img }}{% endif %}">
+    <a href="/wallpaper/girlgroups.tk__{% if post %}{{ post.img }}{% else %}{{ page.img }}{% endif %}" download><img src="/wallpaper/girlgroups.tk__{% if post %}{{ post.img }}{% else %}{{ page.img }}{% endif %}"></a>
     <figcaption class="post_info">
       <ul>
         <li>
@@ -29,7 +29,7 @@
         {% else %}
           {% if page.photo-credit %}
             <li>
-              photo cr {{ page.photo-credit }}
+              cr {{ page.photo-credit }}
             </li>
           {% endif %}
         {% endif %}
