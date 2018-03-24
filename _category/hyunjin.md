@@ -1,4 +1,4 @@
 ---
-tag: heejin
+tag: hyunjin
 permalink: /hyunjin
 ---

@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+
+  <section class="info">
+    <div class="container">
+      <div class="header">
+        <a href="/">home</a>
+        <h1 class="page-title">#{{ page.tag }} walls</h1>
+
+        <p>
+          <a href="/all">view tags</a> · <a href="/">view all</a>
+        </p>
+
+        <p>🌙🎀🍭💕<br>
+        mobile wallpapers + lockscreens of kpop girlgroups, brought to you by <a href="https://twitter.com/12lesbians">@12lesbians</a>.</p>
+
+        <p>
+          🤟 <a href="bias-sorter/loona">loona bias sorter</a><br>
+          🎵 <a href="/song-picker/loona">loona song picker</a>
+        </p>
+
+        <p class="mobile">tap on an image to open it at full size. to download, long-press the image + save!</p>
+      </div>
+
+      <nav class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="prev"><span class="arrow-left">&#10168;</span> prev</a>
+        {% else %}
+          <div class="prev disabled"><span class="arrow-left">&#10168;</span> prev</div>
+        {% endif %}
+        <span class="page-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="next">next &#10168;</a>
+        {% else %}
+          <span class="next disabled">next &#10168;</span>
+        {% endif %}
+      </nav>
+    </div>
+  </section>
+
+  <main class="page-content" aria-label="Content">
+    <div class="posts">
+      {% for post in site.categories[page.tag] %}
+          {% include post-content.html %}
+      {% endfor %}
+    </div>
+  </main>
+
+{%- include footer.html -%}

@@ -2,14 +2,8 @@
 layout: default
 ---
 
-<h1 class="page-title">#{{ page.tag }} walls</h1>
-
-<main class="page-content" aria-label="Content">
-  <div class="posts">
-    {% for post in site.categories[page.tag] %}
-        {% include post-content.html %}
-    {% endfor %}
-  </div>
-</main>
-
-{%- include footer.html -%}
+<div class="posts">
+  {% for post in site.categories[page.tag] %}
+      {% include post-content.html %}
+  {% endfor %}
+</div>

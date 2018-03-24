@@ -1,26 +1,26 @@
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ site.title }} · {{ site.description }}</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }} · {{ site.description }}</title>
 
-<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700" rel="stylesheet">
-<link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
-<link rel="icon" href="/moon.png">
+  <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
+  <link rel="icon" href="/moon.png">
 
-<!-- Twitter -->
-<meta name="twitter:card" content="{% if page.title %}summary{% else %}summary_large_image{% endif %}">
-<meta name="twitter:site" content="@choerryvelvet">
-<meta name="twitter:creator" content="@choerryvelvet">
-<meta name="twitter:title" content="{{ page.title | default: site.title }}">
-<meta name="twitter:description" content="{{ page.description | default: site.description }}">
-<meta name="twitter:image" content="{% if page.title %}{{ site.url | append: site.social_logo_path }}{% else %}{{ site.url | append: site.social_image_path }}{% endif %}">
+  <!-- Twitter -->
+  <meta name="twitter:card" content="{% if page.title %}summary{% else %}summary_large_image{% endif %}">
+  <meta name="twitter:site" content="@choerryvelvet">
+  <meta name="twitter:creator" content="@choerryvelvet">
+  <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  <meta name="twitter:image" content="{% if page.title %}{{ site.url | append: site.social_logo_path }}{% else %}{{ site.url | append: site.social_image_path }}{% endif %}">
 
-<!-- Facebook -->
-<meta property="og:url" content="{{ site.url | append: page.url }}">
-<meta property="og:title" content="{{ page.title | default: site.title }}">
-<meta property="og:description" content="{{ page.description | default: site.description }}">
-<meta property="og:type" content="website">
-<meta property="og:image" content="{{ site.url | append: site.social_image_path }}">
-<meta property="og:image:secure_url" content="{{ site.url | append: site.social_image_path }}">
+  <!-- Facebook -->
+  <meta property="og:url" content="{{ site.url | append: page.url }}">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{{ site.url | append: site.social_image_path }}">
+  <meta property="og:image:secure_url" content="{{ site.url | append: site.social_image_path }}">
 </head>

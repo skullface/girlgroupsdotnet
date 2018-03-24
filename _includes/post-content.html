@@ -6,7 +6,7 @@
     </a>
     <figcaption class="post_info">
       <ul>
-        <li>
+        <li class="tags">
           {% if post %}
             {% assign categories = post.categories %}
           {% else %}
@@ -26,13 +26,13 @@
         {% if post %}
           {% if post.photo-credit %}
             <li>
-              photo cr {{ post.photo-credit }}
+              <a href="{{ post.photo-credit }}" class="subtle-link">cr</a>
             </li>
           {% endif %}
         {% else %}
           {% if page.photo-credit %}
             <li>
-              cr {{ page.photo-credit }}
+              <a href="{{ page.photo-credit }}" class="subtle-link">cr</a>
             </li>
           {% endif %}
         {% endif %}

@@ -1,4 +1,0 @@
----
-tag: lip
-permalink: /lip
----

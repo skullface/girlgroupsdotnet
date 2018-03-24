@@ -16,8 +16,11 @@ markdown: kramdown
 permalink: /:categories/:title
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 sass:
   sass_dir: _scss
+paginate: 6
+paginator_path: "/:num"
 
 # Exclude from site build
 exclude:

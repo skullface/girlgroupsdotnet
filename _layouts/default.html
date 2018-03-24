@@ -4,7 +4,16 @@
   {%- include head.html -%}
   <body>
 
-  {{ content }}
+    <section class="info">
+      <div class="container">
+        <h1 class="page-title">#{{ page.title | downcase }}</h1>
+        {% include sidebar.html %}
+      </div>
+    </section>
+
+    <main class="page-content" aria-label="Content">
+      {{ content }}
+    </main>
 
   </body>
 </html>
