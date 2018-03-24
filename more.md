@@ -15,6 +15,6 @@ here’s more random stuff i made u might like! all links open in a new window (
 ↬ [song sorter](/song-picker/gfriend){:target="_blank"}
 
 ## FOLLOW ME
-↬ [kpop twt](https://twitter.com/eunhips){:target="_blank"}<br>
+↬ [kpop twt](https://twitter.com/12lesbians){:target="_blank"}<br>
 ↬ [wallpaper twt](https://twitter.com/choerryvelvet){:target="_blank"}<br>
 ↬ [main twt](https://twitter.com/skullface){:target="_blank"}

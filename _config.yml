@@ -8,8 +8,8 @@ locale:       en-US
 lang:         en-US
 encoding:     "utf-8"
 
-social_image_path:  /moon.png
-social_logo_path:   /moon.png
+social_image_path:  /assets/meta.jpg
+social_logo_path:   /assets/meta.jpg
 
 # Build settings
 markdown: kramdown
