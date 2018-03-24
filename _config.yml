@@ -19,7 +19,7 @@ plugins:
   - jekyll-paginate
 sass:
   sass_dir: _scss
-paginate: 6
+paginate: 10
 paginator_path: "/:num"
 
 # Exclude from site build
