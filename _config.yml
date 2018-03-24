@@ -1,7 +1,7 @@
 title: ‧₊˚✩ girlgroups.tk
 author: choerryvelvet
 description: >-
-  🌙🤟
+  kpop girl group lockscreens and mobile wallpapers 🌙🎀🍭🤟💕
 baseurl: ""
 url: ""
 locale:       en-US
@@ -19,7 +19,7 @@ plugins:
   - jekyll-paginate
 sass:
   sass_dir: _scss
-paginate: 10
+paginate: 12
 paginator_path: "/:num"
 
 # Exclude from site build

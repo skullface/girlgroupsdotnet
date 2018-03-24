@@ -1,10 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }} · {{ site.description }}</title>
 
-  <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Inconsolata:400" rel="stylesheet">
   <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
   <link rel="icon" href="/moon.png">
 
@@ -24,3 +26,26 @@
   <meta property="og:image" content="{{ site.url | append: site.social_image_path }}">
   <meta property="og:image:secure_url" content="{{ site.url | append: site.social_image_path }}">
 </head>
+
+<body>
+  <header class="page-header">
+    <div class="container">
+      <h1 class="page-title">{% if page.layout == 'category' %}all {{ page.title | downcase }} wallpapers{% else %}{{ page.title | downcase }}{% endif %}</h1>
+      <nav class="nav">
+        <ul>
+          <li>
+            <a href="/">latest wallpapers</a>
+          </li>
+          <li>
+            <a href="/all">view all tags</a>
+          </li>
+          <li>
+            <a href="/more">other</a>
+          </li>
+        </ul>
+      </nav>
+      <p class="mobile">tap on an image to open it at full size. to download, long-press the image + save!</p>
+    </div>
+  </header>
+
+  <main class="page-content" aria-label="Content">

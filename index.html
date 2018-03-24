@@ -1,41 +1,13 @@
 ---
+title: "kpop girl group lockscreens"
 ---
 
-<!DOCTYPE html>
-<html lang="en">
+{%- include head.html -%}
 
-  {%- include head.html -%}
-
-<body>
-
-<section class="info">
-  <div class="container">
-    {% include sidebar.html %}
-
-    <nav class="pagination">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="prev"><span class="arrow-left">&#10168;</span> prev</a>
-      {% else %}
-        <div class="prev disabled"><span class="arrow-left">&#10168;</span> prev</div>
-      {% endif %}
-      <span class="page-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">next &#10168;</a>
-      {% else %}
-        <span class="next disabled">next &#10168;</span>
-      {% endif %}
-    </nav>
-
-  </div>
-</section>
-
-<main class="page-content" aria-label="Content">
   <div class="posts">
     {%- for post in paginator.posts -%}
       {%- include post-content.html -%}
     {%- endfor -%}
   </div>
-</main>
 
-</body>
-</html>
+{%- include footer.html -%}

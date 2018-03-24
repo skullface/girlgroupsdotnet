@@ -1,11 +1,18 @@
 ---
-layout: default
-title: "all wallpapers &hearts;"
+layout: page
+title: "every group and best girl"
 ---
 
 <div class="archive">
-  {% for category in site.categories %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <a href="/{{ category_name | slugize }}">{{ category_name }}</a>
-  {% endfor %}
+  {% assign tags_list = site.categories | sort: title %}
+    {% if tags_list.first[0] == null %}
+      {% for tag in tags_list %}
+        <a href="/{{ tag }}"><span class="girlie">{{ tag | downcase }}</span> <span class="subtle-text">{{ site.tags[tag].size }}</span></a></li>
+      {% endfor %}
+    {% else %}
+      {% for tag in tags_list %}
+        <a href="/{{ tag[0] }}"><span class="girlie">{{ tag[0] | downcase }}</span> <span class="subtle-text">{{ tag[1].size }}</span></a>
+      {% endfor %}
+    {% endif %}
+  {% assign tags_list = nil %}
 </div>

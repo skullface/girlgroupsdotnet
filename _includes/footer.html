@@ -1,0 +1,27 @@
+</main>
+
+<footer class="page-footer">
+  <nav class="pagination">
+    {% if paginator %}
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="prev"><span class="arrow-left">&#10168;</span> PREV</a>
+      {% else %}
+        <div class="prev disabled"><span class="arrow-left">&#10168;</span> PREV</div>
+      {% endif %}
+      <span class="page-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">NEXT &#10168;</a>
+      {% else %}
+        <span class="next disabled">NEXT &#10168;</span>
+      {% endif %}
+    {% endif %}
+  </nav>
+
+  <p>
+    brought to you by <a href="https://twitter.com/12lesbians">@12lesbians</a>. &hearts;<br>
+      <a href="/">latest wallpapers</a> / <a href="/all">view all tags</a> / <a href="/more">other</a> 
+  </p>
+</footer>
+
+</body>
+</html>
