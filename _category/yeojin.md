@@ -1,0 +1,4 @@
+---
+tag: yeojin
+permalink: /yeojin
+---
