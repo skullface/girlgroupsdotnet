@@ -1,0 +1,4 @@
+---
+tag: eden
+permalink: /eden
+---
