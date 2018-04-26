@@ -1,0 +1,4 @@
+---
+tag: yyxy
+permalink: /yyxy
+---
