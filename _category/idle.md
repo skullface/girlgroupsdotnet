@@ -1,0 +1,4 @@
+---
+tag: idle
+permalink: /idle
+---

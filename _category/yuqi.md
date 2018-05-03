@@ -1,0 +1,4 @@
+---
+tag: yuqi
+permalink: /yuqi
+---

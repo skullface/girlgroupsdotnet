@@ -1,0 +1,4 @@
+---
+tag: minnie
+permalink: /minnie
+---
