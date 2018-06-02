@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Premier Greeting Line&Up 2018.06.02"
+permalink: loona/lineup
 ---
 
 # Premier Greeting Line&Up 2018.06.02
