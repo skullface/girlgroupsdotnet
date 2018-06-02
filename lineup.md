@@ -13,7 +13,7 @@ permalink: loona/lineup
 * Intro VCR
 
 ## Odd Eye Circle
-* [OEC – Sweet Crazy Love](https://streamable.com/vvrs1) [2]( https://streamable.com/ltq4p) 📹
+* [OEC – Sweet Crazy Love](https://streamable.com/vvrs1) 📹, [2]( https://streamable.com/ltq4p) 📹
 * [OEC – Girl Front [audio only recording]](https://streamable.com/cqcms) 🎧
 * OEC talk with Yves MC
    * [Kim Lip profile](https://i.imgur.com/NHm65pn.jpg) 📸 & [deadly wink](https://streamable.com/aasvd) 📹
@@ -49,7 +49,7 @@ permalink: loona/lineup
    * Olivia’s nickname (by Yves) is Marceline
    * [Yves – Havana dance cover](https://streamable.com/vpbwh) 📹
    * [drawing](https://i.imgur.com/gjC2neL.jpg) their animals 📸: [Yves 🦆](https://i.imgur.com/JcyjUkr.jpg), [Chuu 🐧](https://i.imgur.com/v7AcThB.jpg), [Go Won 🦋](https://i.imgur.com/jh2nDvP.jpg), [Olivia 🐺](https://i.imgur.com/Y6aY5xH.jpg)
-* [yyxy – love4va with alternate dance break ](https://streamable.com/4asu) 📹
+* [yyxy – love4va with alternate dance break ](https://streamable.com/4asuy) 📹
 
 ## OT12
-* [OT12 saying bye](https://streamable.com/r8fm6) 📹, [2](https://streamable.com/ffkxk) 📹, [3](https://i.imgur.com/cy73utj.jpg) 📸, [4 group selca](https://i.imgur.com/Bl2wPoO.jpg) 📸
+* [OT12 saying bye](https://streamable.com/309io) 📹, [2](https://streamable.com/r8fm6) 📹, [3](https://streamable.com/ffkxk) 📹, [4](https://i.imgur.com/cy73utj.jpg) 📸, [5 group selca](https://i.imgur.com/Bl2wPoO.jpg) 📸
