@@ -1,10 +1,10 @@
 ---
-layout: page
-title: "Premier Greeting Line&Up 2018.06.02"
+layout: text
+title: "Premier Greeting Line&Up"
 permalink: loona/lineup
 ---
 
-# Premier Greeting Line&Up 2018.06.02
+# 2018.06.02
 
 ![](https://i.imgur.com/DbcvyBa.jpg)
 <sup>pc: chou chou</sup>
@@ -16,7 +16,7 @@ permalink: loona/lineup
 * [OEC – Sweet Crazy Love](https://streamable.com/vvrs1) [2]( https://streamable.com/ltq4p) 📹
 * [OEC – Girl Front [audio only recording]](https://streamable.com/cqcms) 🎧
 * OEC talk with Yves MC
-   * [Kim Lip profile](https://i.imgur.com/NHm65pn.jpg) 📸 & [deathly wink](https://streamable.com/aasvd) 📹
+   * [Kim Lip profile](https://i.imgur.com/NHm65pn.jpg) 📸 & [deadly wink](https://streamable.com/aasvd) 📹
    * JinSoul profile & doraemon impression lol
    * Choerry profile & [aegyo](https://streamable.com/kjm4n) 📹
    * archery game (Lip 🏅)
@@ -47,7 +47,7 @@ permalink: loona/lineup
    * Yves kicks Go Won’s bed
    * Go Won’s nickname is Vanilla (her fav flavor and her hair color asjdf)
    * Olivia’s nickname (by Yves) is Marceline
-   * [Yves – Havana](https://streamable.com/vpbwh) 📹  dance cover
+   * [Yves – Havana dance cover](https://streamable.com/vpbwh) 📹
    * [drawing](https://i.imgur.com/gjC2neL.jpg) their animals 📸: [Yves 🦆](https://i.imgur.com/JcyjUkr.jpg), [Chuu 🐧](https://i.imgur.com/v7AcThB.jpg), [Go Won 🦋](https://i.imgur.com/jh2nDvP.jpg), [Olivia 🐺](https://i.imgur.com/Y6aY5xH.jpg)
 * [yyxy – love4va with alternate dance break ](https://streamable.com/4asu) 📹
 

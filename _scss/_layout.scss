@@ -251,6 +251,30 @@ figcaption {
   }
 }
 
+.page-container.page-text {
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+  h2 {
+    margin: 2rem 0 0.5rem 0;
+    border-bottom: solid 1px #ccc;
+  }
+  ul {
+    padding-left: 1rem;
+    ul {
+      padding-left: 2rem;
+    }
+  }
+  a {
+    color: $pink;
+    border-bottom: dotted 1px #ccc;
+    &:hover {
+      color: #000;
+      border-color: $pink;
+      text-decoration: none;
+    }
+  }
+}
+
 .archive {
   a {
     display: block;
