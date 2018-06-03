@@ -62,7 +62,7 @@ all media credits to their respective owners! thanks help#7759 @ loonacord 💗
      * [Go Won 🦋](https://i.imgur.com/jh2nDvP.jpg)
      * [Olivia 🐺](https://i.imgur.com/Y6aY5xH.jpg)
    * 06.03 drawing fruits
-* [yyxy – love4va with alternate dance break](https://streamable.com/2i0yc)  📹, [2](https://streamable.com/4asuy) 📹, [3: alt dance break](https://streamable.com/kjnlv) 📹, [4](https://streamable.com/sl26p) 🎧
+* [yyxy – love4va with alternate dance break](https://streamable.com/2i0yc)  📹, [2](https://streamable.com/4asuy) 📹, [3: alt dance break](https://streamable.com/kjnlv) 📹, [4](https://streamable.com/sl26p) 🎧, [Chuu focus](https://streamable.com/ai8du) 📹
 
 ## OT12 encore
 * [OT12 dance break](https://streamable.com/v1np1) 📹 [2](https://streamable.com/tdiww) 📹, [3](https://i.imgur.com/XajODR8.jpg) 📸, [4](https://streamable.com/fep99) 📹
