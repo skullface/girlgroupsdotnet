@@ -40,6 +40,7 @@ img: https://i.imgur.com/DbcvyBa.jpg
    * Got lost on her first day of high school, because she doesn’t have a phone she went to the aquarium to make a call and made friends with a snail 😩
 
 ## HeeJin
+* Intro VCR — BBC audition tape
 * [HeeJin — ViViD solo](https://i.imgur.com/Jh3PBZe.jpg) 📸, [2](https://i.imgur.com/8lbnbJr.jpg) 📸 <sup>pc: chuu_luvs</sup>
 
 ## yyxy
