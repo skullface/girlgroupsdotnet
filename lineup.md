@@ -20,7 +20,7 @@ all media credits to their respective owners! thanks help#7759 @ loonacord 💗
    * JinSoul profile & doraemon impression lol
    * Choerry profile & [aegyo](https://streamable.com/kjm4n) 📹
    * archery game (Lip 🏅)
-* [OEC – Uncover](https://streamable.com/vtwrv) 📹, [2]
+* [OEC – Uncover](https://streamable.com/vtwrv) 📹
 
 ## 1/3
 * Intro VCR
