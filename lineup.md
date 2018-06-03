@@ -46,7 +46,7 @@ all media credits to their respective owners! thanks help#7759 @ loonacord 💗
 
 ## HeeJin
 * Intro VCR — BBC audition tape
-* [HeeJin — ViViD solo](https://www.youtube.com/watch?v=5C9lnTMAxq4&feature=youtu.be) 📹, [2](https://streamable.com/zcukt) 📹, [3](https://i.imgur.com/Jh3PBZe.jpg) 📸, [4](https://i.imgur.com/8lbnbJr.jpg) 📸 <sup>pc: chuu_luvs</sup>
+* [HeeJin — ViViD solo](https://www.youtube.com/watch?v=5C9lnTMAxq4&feature=youtu.be) 📹, [2](https://streamable.com/zcukt) 📹
 
 ## yyxy
 * yyxy – dal segno
@@ -54,7 +54,7 @@ all media credits to their respective owners! thanks help#7759 @ loonacord 💗
 * yyxy talk with HeeJin MC
    * Yves kicks Go Won’s bed
    * Go Won’s nickname is Vanilla (her fav flavor and her hair color asjdf)
-   * Olivia’s nickname (by Yves) is Marceline
+   * [Olivia’s nickname (given by Yves) is Marceline](https://cdn.discordapp.com/attachments/452302594237267980/452878525687660545/image.jpg) 📸
    * [Yves – Havana dance cover](https://streamable.com/ulu5v) 📹, [2](https://streamable.com/vpbwh) 📹, [3](https://streamable.com/ifsda) 📹, [4](https://streamable.com/levox) 📹, [ChuuVes moment](https://www.youtube.com/watch?v=jo6AnP07KC4&feature=youtu.be) 📹
    * 06.02 [drawing](https://i.imgur.com/gjC2neL.jpg) their animals 📸
      * [Yves 🦆](https://i.imgur.com/JcyjUkr.jpg)
@@ -70,6 +70,7 @@ all media credits to their respective owners! thanks help#7759 @ loonacord 💗
 * [OT12 closing moments](https://i.imgur.com/cy73utj.jpg) 📸
   * [HeeJin](https://streamable.com/r8fm6) 📹
   * [HeeJin w/ ChuuVes focus](https://streamable.com/309io) 📹
+  * [HaSeul](https://streamable.com/3qrtx) 📹
   * [JinSoul](https://streamable.com/bj7mn) 📹
   * [Yves](https://streamable.com/9ykf0) 📹
   * [Olivia](https://streamable.com/5kfbr) 📹
