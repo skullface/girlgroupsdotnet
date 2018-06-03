@@ -71,6 +71,7 @@ all media credits to their respective owners! thanks help#7759 @ loonacord 💗
   * [HeeJin](https://streamable.com/r8fm6) 📹
   * [HeeJin w/ ChuuVes focus](https://streamable.com/309io) 📹
   * [JinSoul](https://streamable.com/bj7mn) 📹
+  * [Yves](https://streamable.com/9ykf0) 📹
   * [Olivia](https://streamable.com/5kfbr) 📹
   * [group selca](https://i.imgur.com/Bl2wPoO.jpg) 📸
   * [“we have been LOONA”](https://streamable.com/nq9y3) 📹
