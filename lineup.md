@@ -55,7 +55,7 @@ all media credits to their respective owners! thanks help#7759 @ loonacord 💗
    * Yves kicks Go Won’s bed
    * Go Won’s nickname is Vanilla (her fav flavor and her hair color asjdf)
    * Olivia’s nickname (by Yves) is Marceline
-   * [Yves – Havana dance cover](https://streamable.com/ulu5v) 📹, [2](https://streamable.com/vpbwh) 📹, [3](https://streamable.com/ifsda) 📹
+   * [Yves – Havana dance cover](https://streamable.com/ulu5v) 📹, [2](https://streamable.com/vpbwh) 📹, [3](https://streamable.com/ifsda) 📹, [4](https://streamable.com/levox) 📹, [ChuuVes moment](https://www.youtube.com/watch?v=jo6AnP07KC4&feature=youtu.be) 📹
    * 06.02 [drawing](https://i.imgur.com/gjC2neL.jpg) their animals 📸
      * [Yves 🦆](https://i.imgur.com/JcyjUkr.jpg)
      * [Chuu 🐧](https://i.imgur.com/v7AcThB.jpg)
@@ -66,7 +66,7 @@ all media credits to their respective owners! thanks help#7759 @ loonacord 💗
 
 ## OT12 encore
 * [OT12 dance break](https://streamable.com/v1np1) 📹 [2](https://streamable.com/tdiww) 📹, [3](https://i.imgur.com/XajODR8.jpg) 📸, [4](https://streamable.com/fep99) 📹
-* [Choerry birthday surprise](https://streamable.com/q9d9a) 📹, [2](https://i.imgur.com/a8u96u6.jpg) 📸
+* [Choerry birthday surprise](https://streamable.com/833ss) 📹, [2](https://i.imgur.com/a8u96u6.jpg) 📸
 * [OT12 closing moments](https://i.imgur.com/cy73utj.jpg) 📸
   * [HeeJin](https://streamable.com/r8fm6) 📹
   * [HeeJin w/ ChuuVes focus](https://streamable.com/309io) 📹
