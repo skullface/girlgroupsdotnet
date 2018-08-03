@@ -1,0 +1,4 @@
+---
+tag: seulgi
+permalink: /seulgi
+---

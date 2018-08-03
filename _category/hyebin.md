@@ -1,0 +1,4 @@
+---
+tag: hyebin
+permalink: /hyebin
+---
