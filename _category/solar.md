@@ -1,0 +1,4 @@
+---
+tag: solar
+permalink: /solar
+---

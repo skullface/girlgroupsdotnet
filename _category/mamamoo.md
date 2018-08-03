@@ -1,0 +1,4 @@
+---
+tag: mamamoo
+permalink: /mamamoo
+---
