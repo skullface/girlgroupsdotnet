@@ -1,0 +1,4 @@
+---
+tag: yeri
+permalink: /yeri
+---
