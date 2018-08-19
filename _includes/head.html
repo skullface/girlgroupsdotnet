@@ -17,12 +17,11 @@
   <meta name="twitter:title" content="{{ page.title | default: site.title }}">
   {% if page.layout == 'text' %}
     <meta name="twitter:image" content="{{ page.img }}">
-    <meta property="twitter:description" content="roundup of fancams, audio, and photos from the event">
+    <meta property="twitter:description" content="roundup of fan-recorded event content, don’t tell BBC">
   {% else %}
     <meta name="twitter:image" content="{{ site.url | append: site.social_logo_path }}">
     <meta name="twitter:description" content="{{ page.description | default: site.description }}">
   {% endif %}
-  <meta name="twitter:image" content="{{ site.url | append: site.social_logo_path }}">
 
   <!-- Facebook -->
   <meta property="og:url" content="{{ site.url | append: page.url }}">
@@ -31,7 +30,7 @@
   <meta property="og:image:secure_url" content="{{ site.url | append: site.social_image_path }}">
   {% if page.layout == 'text' %}
     <meta property="og:image" content="{{ page.img }}">
-    <meta property="og:description" content="roundup of fancams, audio, and photos from the event">
+    <meta property="og:description" content="roundup of fan-recorded event content, don’t tell BBC">
   {% else %}
     <meta property="og:image" content="{{ site.url | append: site.social_image_path }}">
     <meta property="og:description" content="{{ page.description | default: site.description }}">
