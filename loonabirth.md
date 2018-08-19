@@ -12,7 +12,8 @@ img: https://i.imgur.com/pPiSqz6.jpg
 🎧: audio only recording<br>
 🎤: live vocals performed<br>
 📼: VCR clip<br>
-📸: photo<br>
+📸: photo<br><br>
+
 all media credits to their respective owners! thanks help#7759 @ loonacord 💗
 
 ## OT12 intro
@@ -60,7 +61,7 @@ all media credits to their respective owners! thanks help#7759 @ loonacord 💗
 23. yyxy teaser song (Egoist remix)
 24. Heart Attack 🎤 📹 [pt 1](https://streamable.com/birt4) + [pt 2](https://streamable.com/fhaww)
 25. [new](https://streamable.com/sn9mo) 📹, [full](https://streamable.com/lowvu) 🎧
-26. [You & Me Together](https://streamable.com/u45e8) 🦋🐺 ver 📹, [pt 1](https://streamable.com/4pcwu) + [pt 2](https://streamable.com/chr56) 🎧 
+26. [You & Me Together](https://streamable.com/u45e8) 🦋🐺 ver 📹, [pt 1](https://streamable.com/4pcwu) + [pt 2](https://streamable.com/chr56) 🎧
 27. yyxy MCing ft. "wa" screaming + words of love
 28. love4eva 🎤 (getting it hot dance break)
 29. frozen
