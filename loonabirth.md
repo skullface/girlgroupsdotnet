@@ -21,6 +21,7 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 * Intro (++?)
 * FavOriTe
   * 📹 [full](https://www.youtube.com/watch?v=tMbSuIKITyQ)
+  * 📹 [JinSoul focus](https://streamable.com/rbv02)
 * Heat/열기
   * 📹 [pt 1](https://streamable.com/9056r) + [pt 2](https://streamable.com/n8nhl)
 * Introductions + 🐸 MC
@@ -57,9 +58,10 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 
 * Unidentified intro
 * Kiss Later 🎤
+  * 📹  [clip](https://streamable.com/5z7no)
   * 📹 [clip](https://streamable.com/7q9qj)
-* EDILY 🎤 + 🐸 rap
-  * 📹 [pt 1](https://twitter.com/irlylovechuu/status/1031151533348413442) + [pt 2](https://twitter.com/irlylovechuu/status/1031150613810147329)
+* EDILY ft. 🐸 rap 🎤
+  * 📹 [pt 1](https://twitter.com/irlylovechuu/status/1031150613810147329) + [pt 2](https://twitter.com/irlylovechuu/status/1031151533348413442)
 * 🦌🐸 MCing (Vivi's parents attended!)
 
 
@@ -68,7 +70,7 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 * yyxy teaser song (Egoist remix)
 * Heart Attack 🎤
   * 📹 [HQ full](https://streamable.com/4pkwu)
-* new
+* new 🎤
   * 📹 [clip](https://streamable.com/sn9mo)
   * 🎧 [full](https://streamable.com/lowvu)
 * You & Me Together 🦋🐺 ver
@@ -84,15 +86,11 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 ## OT12
 
 * 📼 OT12 singing w/ Fairy Tale BGM
+  * 📹 [ChuuLip focus](https://streamable.com/yqn3y)
 * Stylish
   * 📹 [clip](https://streamable.com/6emdj)
 * OT12 thanks and HaSeul bday~
   * 📹 [HaSeul bday!!!](https://twitter.com/papapang_/status/1031146869865340929)
-  * 📹 [HeeJin](https://streamable.com/0a6fq)
-  * 📹 [HaSeul yelling at Lip for laughing at her crying lmao](https://streamable.com/fyr3w)
-  * 🎧  [Lip](https://twitter.com/archivelip/status/1031192120848089088)
-  * 📹 [Chuu](https://streamable.com/nimkp)
-  * 📹 [Olivia](https://streamable.com/0s21k)
 * Perfect Love
 
 ## OT12 encore
@@ -100,6 +98,11 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
   * 📹 [pt 1](https://streamable.com/0xtvr) + [pt 2](https://streamable.com/xqrgq)
   * 📹 [clip](https://streamable.com/drhvo)
   * 🎧 [full audio](https://streamable.com/o2y1g)
-* Bye!
+* Ending moments
+* 📹 [HeeJin](https://streamable.com/0a6fq)
+* 📹 [HaSeul yelling at Lip for laughing at her crying lmao](https://streamable.com/fyr3w)
+  * 🎧  [Lip](https://twitter.com/archivelip/status/1031192120848089088)
+  * 📹 [Chuu](https://streamable.com/nimkp)
+  * 📹 [Olivia](https://streamable.com/0s21k)
   * 📹 [close-ups of members](https://streamable.com/w7b4d)
   * 📹 [walking off stage](https://streamable.com/sttru)
