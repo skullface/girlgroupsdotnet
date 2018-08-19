@@ -45,6 +45,7 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 
 * ADD extended ver.
 * LCM 🎤 + 🦉🐟
+  * 📹 [pt 1](https://streamable.com/didrr) + [pt 2](https://streamable.com/ciyyi)
 * Eclipse 🎤 + 🐟 adlibs
   * 📹 [full](https://streamable.com/w2r58)
 * SITR 🎤
