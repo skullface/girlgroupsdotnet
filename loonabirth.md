@@ -48,8 +48,8 @@ img: https://i.imgur.com/GXZ7bUI.jpg
 
 * ADD extended ver.
 * LCM 🎤 + 🦉🐟
-  * 📹 [pt 1](https://streamable.com/didrr) + [pt 2](https://streamable.com/ciyyi)
-* Eclipse 🎤 + 🐟 adlibs
+  * 📹 [pt 1](https://streamable.com/didrr) + [pt 2](https://streamable.com/ciyyi) + [pt 3](https://streamable.com/p1k6m)
+* Eclipse 🎤
   * 📹 [full](https://streamable.com/w2r58)
 * SITR 🎤
   * 📹 [clip](https://streamable.com/j4q9u)
