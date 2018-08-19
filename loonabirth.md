@@ -33,7 +33,6 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 * I'll Be There
   * 📹 [full, HeeJin focus](https://www.youtube.com/watch?v=pHlNu2MpFSA&feature=youtu.be)
 * Love Letter 🐰🐱🕊 ver
-  * 📹 https://twitter.com/kimanbang/status/1031211836442435584
   * 📹 [part 1](https://streamable.com/50yby) + [part 2](https://streamable.com/c3uy4)
 * Love and Live remix with 🐸
 * 1/3 MCing
