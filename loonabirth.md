@@ -2,11 +2,11 @@
 layout: text
 title: "LOONAbirth 2018.08.19"
 permalink: loona/loonabirth
-img: https://i.imgur.com/pPiSqz6.jpg
+img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
 ---
 
-![](https://i.imgur.com/pPiSqz6.jpg)
-<sup>pc: applejuicegirlz</sup>
+![](https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg)
+<sup>pc: vitaminchuu</sup>
 
 📹: video recording<br>
 🎧: audio only recording<br>
@@ -31,10 +31,13 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 * Love & Evil
 * ViViD 🎤
 * I'll Be There
+  * 📹 [https://www.youtube.com/watch?v=pHlNu2MpFSA&feature=youtu.be](full, HeeJin focus)
 * Love Letter 🐰🐱🕊 ver
+  * 📹 https://twitter.com/kimanbang/status/1031211836442435584
   * 📹 [part 1](https://streamable.com/50yby) + [part 2](https://streamable.com/c3uy4)
 * Love and Live remix with 🐸
 * 1/3 MCing
+  * 📹 [clip](https://twitter.com/loonacunt/status/1031129982494552065)
 * Valentine Girl~ throwing candy to audience
   * 📹 [2jin focus](https://streamable.com/749nx)
 
@@ -47,22 +50,25 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 * SITR 🎤
 * OEC MCing (ft. 🐟 love arrows + 🦇 winks aegyo)
 * Rosy OEC ver (ft. 🐟 rap)
+  * 📹 [clip(https://streamable.com/8dst7)
   * 📹 [full](https://streamable.com/thvsk)
 * Girl Front
 
 ## YeoVi
 
-19. Unidentified intro
-20. Kiss Later 🎤
-21. EDILY 🎤 + 🐸 rap
-22. 🦌🐸 MCing (Vivi's parents attended!)
+* Unidentified intro
+* Kiss Later 🎤
+  * 📹 [clip](https://streamable.com/7q9qj)
+* EDILY 🎤 + 🐸 rap
+  * 📹 [pt 1](https://twitter.com/irlylovechuu/status/1031151533348413442) + [pt 2](https://twitter.com/irlylovechuu/status/1031150613810147329)
+* 🦌🐸 MCing (Vivi's parents attended!)
 
 
 ## yyxy
 
 * yyxy teaser song (Egoist remix)
 * Heart Attack 🎤
-  * 📹 [pt 1](https://streamable.com/birt4) + [pt 2](https://streamable.com/fhaww)
+  * 📹 [HQ full](https://streamable.com/4pkwu)
 * new
   * 📹 [clip](https://streamable.com/sn9mo)
   * 🎧 [full](https://streamable.com/lowvu)
@@ -70,9 +76,11 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
   * 📹 [clip](https://streamable.com/s4tp1)
   * 📹 [clip](https://streamable.com/u45e8)
   * 🎧 [pt 1](https://streamable.com/4pcwu) + [pt 2](https://streamable.com/chr56)
+  * 📹 [ending 5s clip it’s so cute 🆘](https://streamable.com/q0cd5)
 * yyxy MCing ft. "wa" screaming + words of love
 * love4eva 🎤 (getting it hot dance break)
 * frozen
+  * 📹 [clip](https://streamable.com/v64y5)
 
 ## OT12
 
@@ -80,7 +88,10 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 * Stylish
   * 📹 [clip](https://streamable.com/6emdj)
 * OT12 thanks and HaSeul bday~
-  * 📹 [Heejin](https://streamable.com/0a6fq)
+  * 📹 [HaSeul bday!!!](https://twitter.com/papapang_/status/1031146869865340929)
+  * 📹 [HeeJin](https://streamable.com/0a6fq)
+  * 📹 [HaSeul yelling at Lip for laughing at her crying lmao](https://streamable.com/fyr3w)
+  * 🎧  [Lip](https://twitter.com/archivelip/status/1031192120848089088)
   * 📹 [Chuu](https://streamable.com/nimkp)
   * 📹 [Olivia](https://streamable.com/0s21k)
 * Perfect Love
