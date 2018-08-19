@@ -2,10 +2,10 @@
 layout: text
 title: "LOONAbirth 2018.08.19"
 permalink: loona/loonabirth
-img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
+img: https://i.imgur.com/GXZ7bUI.jpg
 ---
 
-![](https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg)
+![](https://i.imgur.com/GXZ7bUI.jpg)
 <sup>pc: vitaminchuu</sup>
 
 📹 video recording<br>
@@ -19,13 +19,13 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
 <sup>all media credits to their respective owners! biggest thanks to help#7759 @ loonacord 💗</sup>
 
 ## OT12 intro
-
+* [PD48 Go Yujin](https://streamable.com/qvi98) in attendance~
 * Intro (++?)
 * FavOriTe
   * 📹 [full](https://www.youtube.com/watch?v=tMbSuIKITyQ)
   * 📹 [JinSoul focus](https://streamable.com/rbv02)
 * Heat/열기
-  * 📹 [pt 1](https://streamable.com/9056r) + [pt 2](https://streamable.com/n8nhl)
+  * 📹 [pt 1](https://streamable.com/szxz4) + [pt 2](https://streamable.com/6sndg)
 * Introductions + 🐸 MC
 
 
@@ -33,6 +33,7 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
 
 * Love & Evil
 * ViViD 🎤
+  * [clip](https://streamable.com/2s8yn)
 * I'll Be There
   * 📹 [full, HeeJin focus](https://www.youtube.com/watch?v=pHlNu2MpFSA&feature=youtu.be)
 * Love Letter 🐰🐱🕊 ver
@@ -51,6 +52,7 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
 * Eclipse 🎤 + 🐟 adlibs
   * 📹 [full](https://streamable.com/w2r58)
 * SITR 🎤
+  * 📹 [clip](https://streamable.com/j4q9u)
 * OEC MCing (ft. 🐟 love arrows + 🦇 winks aegyo)
 * Rosy OEC ver (ft. 🐟 rap)
   * 📹 [HQ clip, JinSoul focus](https://streamable.com/6hc42)
@@ -66,7 +68,7 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
   * 📹 [clip](https://streamable.com/7q9qj)
 * EDILY ft. 🐸 rap 🎤
   * 📹 [pt 1](https://streamable.com/nawu0) + [pt 2](https://streamable.com/hvrha)
-* 🦌🐸 MCing (Vivi's parents attended!)
+* 🦌🐸 MCing (Vivi's parents in attendance~)
 
 
 ## yyxy
@@ -109,6 +111,7 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
   * 📹 [HaSeul yelling at Lip for laughing at her crying lmao](https://streamable.com/fyr3w)
   * 📹 [HaSeul + Lip speaking w/ close-ups of members](https://streamable.com/w7b4d)
   * 🎧  [Lip](https://streamable.com/exaqd8)
+  * 📹 [Choerry](https://streamable.com/0m68m)
   * 📹 [Chuu](https://streamable.com/nimkp)
   * 📹 [Olivia](https://streamable.com/0s21k)
   * 📹 [walking off stage](https://streamable.com/sttru)
