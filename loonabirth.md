@@ -2,7 +2,7 @@
 layout: text
 title: "LOONAbirth 2018.08.19"
 permalink: loona/loonabirth
-img: https://i.imgur.com/GXZ7bUI.jpg
+img: http://i.imgur.com/GXZ7bUI.jpg
 ---
 
 ![](https://i.imgur.com/GXZ7bUI.jpg)
