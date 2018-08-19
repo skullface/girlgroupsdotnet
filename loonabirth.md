@@ -16,7 +16,7 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
 
 **listen to an [audio recording](https://mega.nz/#!7CRnga7S!q-OSkygu1VwKdJuMqg0EOCv7t9bQUJrsat_NcRkut4E) of the full concert until the encore!**
 
-<sup>all media credits to their respective owners! <br>biggest thanks to help#7759 @ loonacord 💗</sup>
+<sup>all media credits to their respective owners! biggest thanks to help#7759 @ loonacord 💗</sup>
 
 ## OT12 intro
 
@@ -103,10 +103,10 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
   * 📹 [clip](https://streamable.com/drhvo)
   * 🎧 [full audio](https://streamable.com/o2y1g)
 * Ending moments
-* 📹 [HeeJin](https://streamable.com/0a6fq)
-* 📹 [HaSeul yelling at Lip for laughing at her crying lmao](https://streamable.com/fyr3w)
+  * 📹 [HeeJin](https://streamable.com/0a6fq)
+  * 📹 [HaSeul yelling at Lip for laughing at her crying lmao](https://streamable.com/fyr3w)
+  * 📹 [HaSeul + Lip speaking w/ close-ups of members](https://streamable.com/w7b4d)
   * 🎧  [Lip](https://twitter.com/archivelip/status/1031192120848089088)
   * 📹 [Chuu](https://streamable.com/nimkp)
   * 📹 [Olivia](https://streamable.com/0s21k)
-  * 📹 [close-ups of members](https://streamable.com/w7b4d)
   * 📹 [walking off stage](https://streamable.com/sttru)
