@@ -1,6 +1,6 @@
 ---
 layout: text
-title: "LOONAbirth" 2018.08.19"
+title: "LOONAbirth 2018.08.19"
 permalink: loona/loonabirth
 img: https://i.imgur.com/pPiSqz6.jpg
 ---
@@ -14,7 +14,7 @@ img: https://i.imgur.com/pPiSqz6.jpg
 📼: VCR clip<br>
 📸: photo<br><br>
 
-all media credits to their respective owners! thanks help#7759 @ loonacord 💗
+all media credits to their respective owners! <br>biggest thanks to help#7759 @ loonacord 💗
 
 ## OT12 intro
 
