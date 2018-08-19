@@ -8,13 +8,15 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
 ![](https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg)
 <sup>pc: vitaminchuu</sup>
 
-📹: video recording<br>
-🎧: audio only recording<br>
-🎤: live vocals performed<br>
-📼: VCR clip<br>
-📸: photo<br>
+📹 video recording<br>
+🎧 audio only recording<br>
+🎤 live vocals performed<br>
+📼 VCR clip<br>
+📸 photo
 
-all media credits to their respective owners! <br>biggest thanks to help#7759 @ loonacord 💗
+**listen to an [audio recording](https://mega.nz/#!7CRnga7S!q-OSkygu1VwKdJuMqg0EOCv7t9bQUJrsat_NcRkut4E) of the full concert until the encore!**
+
+<sup>all media credits to their respective owners! <br>biggest thanks to help#7759 @ loonacord 💗</sup>
 
 ## OT12 intro
 
@@ -51,6 +53,7 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 * SITR 🎤
 * OEC MCing (ft. 🐟 love arrows + 🦇 winks aegyo)
 * Rosy OEC ver (ft. 🐟 rap)
+  * 📹 [HQ clip, JinSoul focus](https://streamable.com/6hc42)
   * 📹 [clip](https://streamable.com/8dst7)
   * 📹 [full](https://streamable.com/thvsk)
 * Girl Front
