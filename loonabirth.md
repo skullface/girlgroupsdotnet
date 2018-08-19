@@ -97,6 +97,7 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
 * OT12 thanks and HaSeul bday~
   * 📹 [HaSeul bday!!!](https://streamable.com/sjqjz)
 * Perfect Love
+  * 📹 [clip](https://streamable.com/rdosj)
 
 ## OT12 encore
 * HiHigh
