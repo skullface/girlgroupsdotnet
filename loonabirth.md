@@ -12,16 +12,18 @@ img: https://i.imgur.com/pPiSqz6.jpg
 🎧: audio only recording<br>
 🎤: live vocals performed<br>
 📼: VCR clip<br>
-📸: photo<br><br>
+📸: photo<br>
 
 all media credits to their respective owners! <br>biggest thanks to help#7759 @ loonacord 💗
 
 ## OT12 intro
 
-1. Intro (++?)
-2. [FavOriTe](https://www.youtube.com/watch?v=tMbSuIKITyQ) 📹
-3. Heat/열기 📹 [pt 1](https://streamable.com/9056r) + [pt 2](https://streamable.com/n8nhl)
-4. Introductions + 🐸 MC
+* Intro (++?)
+* FavOriTe
+  * 📹 [full](https://www.youtube.com/watch?v=tMbSuIKITyQ)
+* Heat/열기
+  * 📹 [pt 1](https://streamable.com/9056r) + [pt 2](https://streamable.com/n8nhl)
+* Introductions + 🐸 MC
 
 
 ## 1/3
@@ -58,13 +60,19 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 
 ## yyxy
 
-23. yyxy teaser song (Egoist remix)
-24. Heart Attack 🎤 📹 [pt 1](https://streamable.com/birt4) + [pt 2](https://streamable.com/fhaww)
-25. [new](https://streamable.com/sn9mo) 📹, [full](https://streamable.com/lowvu) 🎧
-26. [You & Me Together](https://streamable.com/u45e8) 🦋🐺 ver 📹, [pt 1](https://streamable.com/4pcwu) + [pt 2](https://streamable.com/chr56) 🎧
-27. yyxy MCing ft. "wa" screaming + words of love
-28. love4eva 🎤 (getting it hot dance break)
-29. frozen
+* yyxy teaser song (Egoist remix)
+* Heart Attack 🎤
+  * 📹 [pt 1](https://streamable.com/birt4) + [pt 2](https://streamable.com/fhaww)
+* new
+  * 📹 [clip](https://streamable.com/sn9mo)
+  * 🎧 [full](https://streamable.com/lowvu)
+* You & Me Together 🦋🐺 ver
+  * 📹 [clip](https://streamable.com/s4tp1)
+  * 📹 [clip](https://streamable.com/u45e8)
+  * 🎧 [pt 1](https://streamable.com/4pcwu) + [pt 2](https://streamable.com/chr56)
+* yyxy MCing ft. "wa" screaming + words of love
+* love4eva 🎤 (getting it hot dance break)
+* frozen
 
 ## OT12
 
@@ -72,12 +80,14 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 * Stylish
   * 📹 [clip](https://streamable.com/6emdj)
 * OT12 thanks and HaSeul bday~
+  * 📹 [Heejin](https://streamable.com/0a6fq)
+  * 📹 [Chuu](https://streamable.com/nimkp)
   * 📹 [Olivia](https://streamable.com/0s21k)
 * Perfect Love
 
 ## OT12 encore
 * HiHigh
-  * [pt 1](https://streamable.com/0xtvr) + [pt 2](https://streamable.com/xqrgq)
+  * 📹 [pt 1](https://streamable.com/0xtvr) + [pt 2](https://streamable.com/xqrgq)
   * 📹 [clip](https://streamable.com/drhvo)
   * 🎧 [full audio](https://streamable.com/o2y1g)
 * Bye!
