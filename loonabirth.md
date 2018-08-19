@@ -39,7 +39,7 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
   * 📹 [part 1](https://streamable.com/50yby) + [part 2](https://streamable.com/c3uy4)
 * Love and Live remix with 🐸
 * 1/3 MCing
-  * 📹 [clip](https://twitter.com/loonacunt/status/1031129982494552065)
+  * 📹 [clip](https://streamable.com/71k6i)
 * Valentine Girl~ throwing candy to audience
   * 📹 [2jin focus](https://streamable.com/749nx)
 
@@ -65,7 +65,7 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
   * 📹  [clip](https://streamable.com/5z7no)
   * 📹 [clip](https://streamable.com/7q9qj)
 * EDILY ft. 🐸 rap 🎤
-  * 📹 [pt 1](https://twitter.com/irlylovechuu/status/1031150613810147329) + [pt 2](https://twitter.com/irlylovechuu/status/1031151533348413442)
+  * 📹 [pt 1](https://streamable.com/nawu0) + [pt 2](https://streamable.com/hvrha)
 * 🦌🐸 MCing (Vivi's parents attended!)
 
 
@@ -85,6 +85,7 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
 * yyxy MCing ft. "wa" screaming + words of love
 * love4eva 🎤 (getting it hot dance break)
 * frozen
+  * 📹 [HQ full Chuu focus](https://www.youtube.com/watch?v=5JDwoJgip_w&feature=youtu.be)
   * 📹 [clip](https://streamable.com/v64y5)
 
 ## OT12
@@ -94,7 +95,7 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
 * Stylish
   * 📹 [clip](https://streamable.com/6emdj)
 * OT12 thanks and HaSeul bday~
-  * 📹 [HaSeul bday!!!](https://twitter.com/papapang_/status/1031146869865340929)
+  * 📹 [HaSeul bday!!!](https://streamable.com/sjqjz)
 * Perfect Love
 
 ## OT12 encore
@@ -106,7 +107,7 @@ img: https://pbs.twimg.com/media/Dk9luquXoAAR7nn.jpg
   * 📹 [HeeJin](https://streamable.com/0a6fq)
   * 📹 [HaSeul yelling at Lip for laughing at her crying lmao](https://streamable.com/fyr3w)
   * 📹 [HaSeul + Lip speaking w/ close-ups of members](https://streamable.com/w7b4d)
-  * 🎧  [Lip](https://twitter.com/archivelip/status/1031192120848089088)
+  * 🎧  [Lip](https://streamable.com/exaqd8)
   * 📹 [Chuu](https://streamable.com/nimkp)
   * 📹 [Olivia](https://streamable.com/0s21k)
   * 📹 [walking off stage](https://streamable.com/sttru)
