@@ -31,7 +31,7 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 * Love & Evil
 * ViViD 🎤
 * I'll Be There
-  * 📹 [https://www.youtube.com/watch?v=pHlNu2MpFSA&feature=youtu.be](full, HeeJin focus)
+  * 📹 [full, HeeJin focus](https://www.youtube.com/watch?v=pHlNu2MpFSA&feature=youtu.be)
 * Love Letter 🐰🐱🕊 ver
   * 📹 https://twitter.com/kimanbang/status/1031211836442435584
   * 📹 [part 1](https://streamable.com/50yby) + [part 2](https://streamable.com/c3uy4)
@@ -50,7 +50,7 @@ all media credits to their respective owners! <br>biggest thanks to help#7759 @ 
 * SITR 🎤
 * OEC MCing (ft. 🐟 love arrows + 🦇 winks aegyo)
 * Rosy OEC ver (ft. 🐟 rap)
-  * 📹 [clip(https://streamable.com/8dst7)
+  * 📹 [clip](https://streamable.com/8dst7)
   * 📹 [full](https://streamable.com/thvsk)
 * Girl Front
 
