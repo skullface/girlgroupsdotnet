@@ -47,18 +47,22 @@ img: http://i.imgur.com/GXZ7bUI.jpg
 ## OEC
 
 * ADD extended ver.
+  * 📹 [full](https://streamable.com/j6j26)
 * LCM 🎤
   * 📹 [pt 1](https://streamable.com/didrr) + [pt 2](https://streamable.com/ciyyi) + [pt 3](https://streamable.com/p1k6m)
 * Eclipse 🎤
   * 📹 [full](https://streamable.com/w2r58)
 * SITR 🎤
   * 📹 [clip](https://streamable.com/j4q9u)
+  * 📹 [full](https://streamable.com/okynn)
 * OEC MCing (ft. 🐟 love arrows + 🦇 winks aegyo)
 * Rosy OEC ver (ft. 🐟 rap)
   * 📹 [HQ clip, JinSoul focus](https://streamable.com/6hc42)
   * 📹 [clip](https://streamable.com/8dst7)
   * 📹 [full](https://streamable.com/thvsk)
+  * 📹 [full](https://streamable.com/jip1u)
 * Girl Front
+  * 📹 [full](https://streamable.com/rg5sz)
 
 ## YeoVi
 
