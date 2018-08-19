@@ -14,9 +14,7 @@ img: http://i.imgur.com/GXZ7bUI.jpg
 📼 VCR clip<br>
 📸 photo
 
-**listen to an [audio recording](https://mega.nz/#!7CRnga7S!q-OSkygu1VwKdJuMqg0EOCv7t9bQUJrsat_NcRkut4E) of the full concert until the encore!**
-
-<sup>all media credits to their respective owners! biggest thanks to help#7759 @ loonacord 💗</sup>
+🎧 <strong>listen to an [audio recording](https://mega.nz/#!7CRnga7S!q-OSkygu1VwKdJuMqg0EOCv7t9bQUJrsat_NcRkut4E) of the full concert until the encore!</strong><br><sup>all media credits to their respective owners! biggest thanks to help#7759 @ loonacord 💗</sup>
 
 ## OT12 intro
 * [PD48 Go Yujin](https://streamable.com/qvi98) in attendance~
@@ -27,18 +25,21 @@ img: http://i.imgur.com/GXZ7bUI.jpg
 * Heat/열기
   * 📹 [pt 1](https://streamable.com/szxz4) + [pt 2](https://streamable.com/6sndg)
 * Introductions + 🐸 MC
+  * 📹 [pt 1](https://streamable.com/htyun) + [pt 2](https://streamable.com/xr9qg)
 
 
 ## 1/3
 
 * Love & Evil
+  * 📹 [full](https://streamable.com/sxcle)
 * ViViD 🎤
-  * [clip](https://streamable.com/2s8yn)
+  * 📹 [clip](https://streamable.com/2s8yn)
 * I'll Be There
   * 📹 [full, HeeJin focus](https://www.youtube.com/watch?v=pHlNu2MpFSA&feature=youtu.be)
 * Love Letter 🐰🐱🕊 ver 🎤
   * 📹 [part 1](https://streamable.com/50yby) + [part 2](https://streamable.com/c3uy4)
-* Love and Live remix with 🐸
+* Love and Live Up&Line Remix (with HyunJin not Choerry)
+  * 📹 [full](https://streamable.com/jgs2a)
 * 1/3 MCing
   * 📹 [clip](https://streamable.com/71k6i)
 * Valentine Girl~ throwing candy to audience
