@@ -36,7 +36,7 @@ img: https://i.imgur.com/GXZ7bUI.jpg
   * [clip](https://streamable.com/2s8yn)
 * I'll Be There
   * 📹 [full, HeeJin focus](https://www.youtube.com/watch?v=pHlNu2MpFSA&feature=youtu.be)
-* Love Letter 🐰🐱🕊 ver
+* Love Letter 🐰🐱🕊 ver 🎤
   * 📹 [part 1](https://streamable.com/50yby) + [part 2](https://streamable.com/c3uy4)
 * Love and Live remix with 🐸
 * 1/3 MCing
@@ -47,7 +47,7 @@ img: https://i.imgur.com/GXZ7bUI.jpg
 ## OEC
 
 * ADD extended ver.
-* LCM 🎤 + 🦉🐟
+* LCM 🎤
   * 📹 [pt 1](https://streamable.com/didrr) + [pt 2](https://streamable.com/ciyyi) + [pt 3](https://streamable.com/p1k6m)
 * Eclipse 🎤
   * 📹 [full](https://streamable.com/w2r58)
