@@ -25,6 +25,9 @@ img: http://i.imgur.com/GXZ7bUI.jpg
   * 📹 [JinSoul focus](https://streamable.com/rbv02)
 * Heat/열기
   * 📹 [pt 1](https://streamable.com/szxz4) + [pt 2](https://streamable.com/6sndg)
+  * 📹 [clip JinSoul focus](https://streamable.com/kdewo)
+  * 📹 [HQ clip Chuu focus](https://streamable.com/d6r25)
+  * 📹 [HQ full Chuu focus](https://streamable.com/ahc8d)
 * Introductions + 🐸 MC
   * 📹 [pt 1](https://streamable.com/htyun) + [pt 2](https://streamable.com/xr9qg)
 
@@ -37,10 +40,13 @@ img: http://i.imgur.com/GXZ7bUI.jpg
   * 📹 [clip](https://streamable.com/2s8yn)
 * I'll Be There
   * 📹 [full HeeJin focus](https://www.youtube.com/watch?v=pHlNu2MpFSA&feature=youtu.be) 👀
+  * 📹 [clip](https://streamable.com/38mdq)
 * Love Letter 🐰🐱🕊 ver 🎤
+  * 📹 [clip](https://streamable.com/rdd23)
   * 📹 [part 1](https://streamable.com/50yby) + [part 2](https://streamable.com/c3uy4)
 * Love and Live Up&Line Remix (with HyunJin not Choerry)
   * 📹 [full](https://streamable.com/jgs2a)
+  * 📹 [clip](https://streamable.com/dhy38)
 * 1/3 MCing
   * 📹 [clip](https://streamable.com/71k6i)
 * Valentine Girl~ throwing candy to audience
@@ -54,7 +60,9 @@ img: http://i.imgur.com/GXZ7bUI.jpg
   * 📹 [pt 1](https://streamable.com/didrr) + [pt 2](https://streamable.com/ciyyi) + [pt 3](https://streamable.com/p1k6m) 👀
 * Eclipse 🎤
   * 📹 [full](https://streamable.com/w2r58) 👀
+  * 📹 [HQ clip](https://streamable.com/31b7x)
 * SITR 🎤
+  * 📹 [HQ full](https://streamable.com/5glwt) 👀0
   * 📹 [HQ clip](https://streamable.com/f6riy)
   * 📹 [clip](https://streamable.com/j4q9u)
   * 📹 [full](https://streamable.com/okynn)
@@ -62,7 +70,7 @@ img: http://i.imgur.com/GXZ7bUI.jpg
 * Rosy OEC ver ft. 🐟 rap
   * 📹 [HQ clip JinSoul focus 1](https://streamable.com/6hc42)
   * 📹 [HQ clip JinSoul focus 2](https://streamable.com/110s3)
-  * 📹 [clip](https://streamable.com/8dst7)
+  * 📹 [HQ clip Lip focus](https://streamable.com/ld8od)
   * 📹 [full](https://streamable.com/thvsk)
   * 📹 [full](https://streamable.com/jip1u)
 * Girl Front
@@ -75,6 +83,7 @@ img: http://i.imgur.com/GXZ7bUI.jpg
   * 📹 [clip](https://streamable.com/5z7no)
   * 📹 [clip](https://streamable.com/7q9qj) 👀
 * EDILY ft. 🐸 rap 🎤
+  * 📹 [HQ full](https://streamable.com/7nk13) 👀
   * 📹 [pt 1](https://streamable.com/nawu0) + [pt 2](https://streamable.com/hvrha)
 * YeoVi MCing (Vivi's parents in attendance~!!)
 
@@ -86,6 +95,7 @@ img: http://i.imgur.com/GXZ7bUI.jpg
   * 📹 [HQ full](https://streamable.com/4pkwu) 👀
 * new 🎤
   * 📹 [clip](https://streamable.com/sn9mo)
+  * 📹 [clip](https://streamable.com/1mas8)
   * 🎧 [full](https://streamable.com/lowvu)
 * You & Me Together 🦋🐺 ver
   * 📹 [clip](https://streamable.com/s4tp1)
@@ -103,6 +113,8 @@ img: http://i.imgur.com/GXZ7bUI.jpg
 * 📼 OT12 singing w/ Fairy Tale BGM
 * Stylish
   * 📹 [clip](https://streamable.com/6emdj)
+  * 📹 [HQ full HeeJin focus](https://streamable.com/ka4zh)
+  * 📹 [clip Chuu focus](https://streamable.com/t9eqv)
 * Perfect Love
   * 📹 [HQ clip Chuu focus](https://streamable.com/8f0oa) 👀
   * 📹 [clip](https://streamable.com/rdosj)
@@ -112,8 +124,12 @@ img: http://i.imgur.com/GXZ7bUI.jpg
   * 📹 [pt 1](https://streamable.com/0xtvr) + [pt 2](https://streamable.com/xqrgq)
   * 📹 [clip](https://streamable.com/drhvo)
   * 🎧 [full audio](https://streamable.com/o2y1g)
+  * 📹 [HQ full HeeJin focus](https://streamable.com/49chc)
+  * 📹 [HQ full Chuu focus](https://streamable.com/9jsq8)
+  * 📹 [HQ full Chuu focus](https://streamable.com/5yzcs)
 * Ending moments
-  * 📹 [HeeJin](https://streamable.com/0a6fq)
+  * 📹 [HeeJin 1](https://streamable.com/0a6fq)
+  * 📹 [HeeJin 2](https://streamable.com/bonq2)
   * 📹 [HaSeul yelling at Lip for laughing at her crying lmao](https://streamable.com/fyr3w)
   * 📹 [HaSeul + Lip speaking w/ close-ups of members](https://streamable.com/w7b4d)
   * 📹 [HaSeul bday!!!](https://streamable.com/sjqjz) 👀
