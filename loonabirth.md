@@ -104,7 +104,7 @@ img: http://i.imgur.com/GXZ7bUI.jpg
 * Stylish
   * 📹 [clip](https://streamable.com/6emdj)
 * Perfect Love
-  * 📹 [HQ clip Chuu focus](perfect love: chuu focus by @locomotion__) 👀
+  * 📹 [HQ clip Chuu focus](https://streamable.com/8f0oa) 👀
   * 📹 [clip](https://streamable.com/rdosj)
 
 ## OT12 encore
