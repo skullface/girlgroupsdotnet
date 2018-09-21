@@ -1,0 +1,143 @@
+body {
+  margin: 0 auto 40px auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+p {
+  max-width: 20rem;
+  margin: 20px auto;
+  text-align: center;
+  font-size: 12px;
+}
+
+a {
+  color: #79a2c9;
+  text-decoration : none;
+}
+
+a:hover {
+  color: #8f8f8f;
+}
+
+img {
+  max-width: 12px;
+  max-height: 12px;
+}
+
+h2 {
+  font-weight: normal;
+}
+
+/*
+ * Layout
+ */
+
+
+/*
+ * Sorter styling
+ */
+
+ .sorter-game {
+   text-align: center;
+ }
+
+.sorter-option {
+  cursor: pointer;
+  border: dotted 2px red;
+  background: aliceblue;
+}
+
+  .sorter-option:hover {
+    border-color: black;
+  }
+
+.main-battle {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.sorter-option#optionA,
+.sorter-option#optionB {
+  width: 45%;
+}
+
+.sorter-option:not(.option-tie) {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.sorter-option.option-tie {
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.results-list ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.results-list li {
+  margin-bottom: 2px;
+}
+
+.number {
+  display: inline-block;
+  width: 20px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+/*
+ LOONA colors
+ */
+.heejin {
+  color: #ED4576;
+}
+
+.hyunjin {
+  color: #E6D731;
+}
+
+.haseul {
+  color: #11b00d;
+}
+
+.vivi {
+  color: #e68fac;
+}
+
+.yeojin {
+  color: #ff751d;
+}
+
+.lip {
+  color: #df191a;
+}
+
+.soul {
+  color: #2088fc;
+}
+
+.choerry {
+  color: #83159a;
+}
+
+.yves {
+  color: #751c33;
+}
+
+.chuu {
+  color: #eaa77a;
+}
+
+.gowon {
+  color: #6fdec4;
+}
+
+.olivia {
+  color: #444;
+}
