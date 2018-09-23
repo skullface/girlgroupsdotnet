@@ -3,416 +3,76 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/sorter.css">
+  <title>LOOΠΔ bias sorter</title>
+  <link rel="icon" type="image/png" href="../../moon.png">
+
+  <script src="/assets/sorter.js"></script>
   <script type="text/javascript">
-  var namMember = new Array(
-    "HeeJin 🐰<span class='heejin'>&hearts;</span>",
-    "HyunJin 🐱<span class='hyunjin'>&hearts;</span>",
-    "HaSeul 🐦<span class='haseul'>&hearts;</span>",
-    "ViVi 🦌<span class='vivi'>&hearts;</span>",
-    "YeoJin 🐸<span class='yeojin'>&hearts;</span>",
-    "Kim Lip 🦉<span class='lip'>&hearts;</span>",
-    "JinSoul 🐟<span class='soul'>&hearts;</span>",
-    "Choerry 🦇<span class='choerry'>&hearts;</span>",
-    "Yves 🕊<span class='yves'>&hearts;</span>",
-    "Chuu 🐧<span class='chuu'>&hearts;</span>",
-    "Go Won 🦋<span class='gowon'>&hearts;</span>",
-    "Olivia Hye 🐺<span class='olivia'>&hearts;</span>"
-  );
-
-  var lstMember = new Array();
-  var parent = new Array();
-  var equal = new Array();
-  var rec = new Array();
-  var cmp1,cmp2;
-  var head1,head2;
-  var nrec;
-  var numQuestion;
-  var totalSize;
-  var finishSize;
-  var finishFlag;
-
-  function initList(){
-    var n = 0;
-    var mid;
-    var i;
-
-    lstMember[n] = new Array();
-
-    for (i=0; i<namMember.length; i++) {
-      lstMember[n][i] = i;
-    }
-
-    parent[n] = -1;
-    totalSize = 0;
-    n++;
-
-    for (i=0; i<lstMember.length; i++) {
-      if(lstMember[i].length>=2) {
-        mid = Math.ceil(lstMember[i].length/2);
-        lstMember[n] = new Array();
-        lstMember[n] = lstMember[i].slice(0,mid);
-        totalSize += lstMember[n].length;
-        parent[n] = i;
-        n++;
-        lstMember[n] = new Array();
-        lstMember[n] = lstMember[i].slice(mid,lstMember[i].length);
-        totalSize += lstMember[n].length;
-        parent[n] = i;
-        n++;
-      }
-    }
-
-    for (i=0; i<namMember.length; i++) {
-      rec[i] = 0;
-    }
-
-    nrec = 0;
-
-    for (i=0; i<=namMember.length; i++) {
-      equal[i] = -1;
-    }
-
-    cmp1 = lstMember.length-2;
-    cmp2 = lstMember.length-1;
-    head1 = 0;
-    head2 = 0;
-    numQuestion = 1;
-    finishSize = 0;
-    finishFlag = 0;
-  }
-
-  function sortList(flag){
-    var i;
-    var str;
-
-    if (flag<0) {
-      rec[nrec] = lstMember[cmp1][head1];
-      head1++;
-      nrec++;
-      finishSize++;
-
-      while (equal[rec[nrec-1]]!=-1) {
-        rec[nrec] = lstMember[cmp1][head1];
-        head1++;
-        nrec++;
-        finishSize++;
-      }
-    }
-
-    else if (flag>0) {
-      rec[nrec] = lstMember[cmp2][head2];
-      head2++;
-      nrec++;
-      finishSize++;
-
-      while (equal[rec[nrec-1]]!=-1) {
-        rec[nrec] = lstMember[cmp2][head2];
-        head2++;
-        nrec++;
-        finishSize++;
-      }
-    }
-
-    else {
-      rec[nrec] = lstMember[cmp1][head1];
-      head1++;
-      nrec++;
-      finishSize++;
-        while (equal[rec[nrec-1]]!=-1) {
-          rec[nrec] = lstMember[cmp1][head1];
-          head1++;
-          nrec++;
-          finishSize++;
-        }
-      equal[rec[nrec-1]] = lstMember[cmp2][head2];
-      rec[nrec] = lstMember[cmp2][head2];
-      head2++;
-      nrec++;
-      finishSize++;
-      while (equal[rec[nrec-1]]!=-1) {
-        rec[nrec] = lstMember[cmp2][head2];
-        head2++;
-        nrec++;
-        finishSize++;
-      }
-    }
-
-    if (head1<lstMember[cmp1].length && head2==lstMember[cmp2].length) {
-      while (head1<lstMember[cmp1].length){
-        rec[nrec] = lstMember[cmp1][head1];
-        head1++;
-        nrec++;
-        finishSize++;
-      }
-    }
-
-    else if (head1==lstMember[cmp1].length && head2<lstMember[cmp2].length) {
-      while (head2<lstMember[cmp2].length){
-        rec[nrec] = lstMember[cmp2][head2];
-        head2++;
-        nrec++;
-        finishSize++;
-      }
-    }
-
-    if (head1==lstMember[cmp1].length && head2==lstMember[cmp2].length) {
-
-      for (i=0; i<lstMember[cmp1].length+lstMember[cmp2].length; i++) {
-        lstMember[parent[cmp1]][i] = rec[i];
-      }
-
-    lstMember.pop();
-    lstMember.pop();
-    cmp1 = cmp1-2;
-    cmp2 = cmp2-2;
-    head1 = 0;
-    head2 = 0;
-
-    if (head1==0 && head2==0) {
-      for (i=0; i<namMember.length; i++) {
-        rec[i] = 0;
-      }
-      nrec = 0;
-    }
-  }
-
-  if (cmp1<0) {
-    str = "<strong>battle #"+(numQuestion-1)+"</strong>("+Math.floor(finishSize*100/totalSize)+"% sorted!)";
-    document.getElementById("battleNumber").innerHTML = str;
-    showResult();
-    finishFlag = 1;
-  }
-
-  else {
-    showImage();
-  }
-}
-
-function showResult() {
-  var ranking = 1;
-  var sameRank = 1;
-  var str = "";
-  var i;
-
-  str += "<table class='results'>";
-
-  str += "<thead><tr><th class='ranking'>rank</th><th class='best-girl'>best girl</th></tr></thead><tbody>";
-
-  for (i=0; i<namMember.length; i++) {
-    str += "<tr><td class='ranking'>"+ranking+"<\/td><td class='best-girl'>"+namMember[lstMember[0][i]]+"<\/td><\/tr>";
-
-    if (i<namMember.length-1) {
-      if (equal[lstMember[0][i]]==lstMember[0][i+1]) {
-        sameRank++;
-      }
-
-      else {
-        ranking += sameRank;
-        sameRank = 1;
-      }
-    }
-  }
-
-  str += "</tbody></table>";
-  document.getElementById("resultField").innerHTML = str;
-}
-
-function showImage() {
-  var str0 = "<strong>battle #"+numQuestion+"</strong>("+Math.floor(finishSize*100/totalSize)+"% sorted)";
-  var str1 = ""+toNameFace(lstMember[cmp1][head1]);
-  var str2 = ""+toNameFace(lstMember[cmp2][head2]);
-
-  document.getElementById("battleNumber").innerHTML = str0;
-  document.getElementById("leftField").innerHTML = str1;
-  document.getElementById("rightField").innerHTML = str2;
-  numQuestion++;
-}
-
-function toNameFace(n){
-  var str = namMember[n];
-  return str;
-}
-</script>
-
-<style type="text/css">
-  #mainTable {
-    text-align: center;
-    vertical-align: middle;
-    width: 410px;
-    margin-left: auto;
-    margin-right: auto;
-    border-collapse: separate;
-    border-spacing: 10px 5px;
-  }
-
-  .results {
-    border: solid 1px #bbb;
-    margin-left: auto;
-    margin-right: auto;
-    border-collapse: collapse;
-  }
-
-  .results th,
-  .results td {
-    border-bottom: solid 1px #bbb;
-    padding: 5px;
-  }
-
-  .results .best-girl {
-    padding-left: 10px;
-    padding-right: 10px;
-    border-left: 0;
-  }
-
-  .results .ranking {
-    border-right: solid 1px #bbb;
-    text-align: center;
-  }
-
-  #mainTable td:not(#battleNumber) {
-    cursor: pointer !important;
-    background: #111;
-    color: #fff;
-    width: 120px;
-  }
-
-  #leftField,
-  #rightField {
-    height: 150px;
-  }
-
-  .middleField {
-    height: 70px;
-  }
-
-  a {
-    color: #79a2c9;
-    text-decoration : none;
-  }
-
-  a:hover {
-    color: #8f8f8f;
-  }
-
-  body {
-    margin: 0 auto 40px auto;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  }
-
-  p {
-    max-width: 20rem;
-    margin: 20px auto;
-    text-align: center;
-    font-size: 12px;
-  }
-
-  strong {
-    display: block;
-  }
-
-  img {
-    max-width: 12px;
-    max-height: 12px;
-  }
-
-  .heejin {
-    color: #ED4576;
-  }
-
-  .hyunjin {
-    color: #E6D731;
-  }
-
-  .haseul {
-    color: #11b00d;
-  }
-
-  .vivi {
-    color: #e68fac;
-  }
-
-  .yeojin {
-    color: #ff751d;
-  }
-
-  .lip {
-    color: #df191a;
-  }
-
-  .soul {
-    color: #2088fc;
-  }
-
-  .choerry {
-    color: #83159a;
-  }
-
-  .yves {
-    color: #751c33;
-  }
-
-  .chuu {
-    color: #eaa77a;
-  }
-
-  .gowon {
-    color: #6fdec4;
-  }
-
-  .olivia {
-    color: #444;
-  }
-
-</style>
-<title>loona bias sorter</title>
-<link rel="icon" type="image/png" href="../../moon.png">
+    var namMember = new Array(
+      "HeeJin <span class='heart heejin'>🐰&#x2661;</span>",
+      "HyunJin <span class='heart hyunjin'>🐱&#x2661;</span>",
+      "HaSeul <span class='heart haseul'>🕊&#x2661;</span>",
+      "ViVi <span class='heart vivi'>🦌&#x2661;</span>",
+      "YeoJin <span class='heart yeojin'>🐸&#x2661;</span>",
+      "Kim Lip <span class='heart lip'>🦉&#x2661;</span>",
+      "JinSoul <span class='heart soul'>🐟&#x2661;</span>",
+      "Choerry <span class='heart choerry'>🦇&#x2661;</span>",
+      "Yves <span class='heart yves'>🍎&#x2661;</span>",
+      "Chuu <span class='heart chuu'>🐧&#x2661;</span>",
+      "Go Won <span class='heart gowon'>🦋&#x2661;</span>",
+      "Olivia Hye <span class='heart olivia'>🐺&#x2661;</span>"
+    );
+  </script>
 </head>
 
 <body>
-  <p>
-    <strong>🌙 loona bias sorter</strong>
-    pick who you like better in each battle to get an accurate list of your favorite members from the group.<br>
-    🐰🐱🕊🐸🦌🦉🐟🦇🍎🐧🦋🐺
-  </p>
+  <header class="page-header container">
+    <h1>LOOΠΔ bias sorter</h1>
+    <p>
+      Choose your favorite member in each battle to get an accurate list of your favorite members from the group.
+      <br>🐰🐱🕊🐸🦌🦉🐟🦇🍎🐧🦋🐺
+    </p>
+  </header>
 
-  <table id="mainTable" align="center">
-    <tbody>
-      <tr>
-        <td id="battleNumber" colspan="3" style="padding-bottom: 10px;"><strong>battle #1</strong><br>0% sorted.</td>
-      </tr>
-      <tr>
-        <td id="leftField" onclick="if(finishFlag==0) sortList(-1);" rowspan="2" style="text-align:center;">heejin</td>
-        <td class="middleField" onclick="if(finishFlag==0) sortList(0);" style="text-align:center;">
+  <main class="page-sorter">
+    <div class="container">
+      <h2 id="battleNumber" class="sorter-header">
+        <strong>battle #1</strong> 0% sorted
+      </h2>
 
-          tie!!
+      <div class="sorter-game">
+        <div class="main-battle">
+          <div id="optionA" onclick="if(finishFlag==0) sortList(-1);" class="sorter-option">
+            x
+          </div>
+          <span class="versus">vs</span>
+          <div id="optionB" onclick="if(finishFlag==0) sortList(1);" class="sorter-option">
+            y
+          </div>
+        </div>
+        <div onclick="if(finishFlag==0) sortList(0);" class="sorter-option option-tie">
+          it’s a tie!
+        </div>
+      </div>
+    </div>
+  </main>
 
-        </td>
-        <td id="rightField" onclick="if(finishFlag==0) sortList(1);" rowspan="2" style="text-align:center;">jinsoul</td>
-      </tr>
-      <tr>
-        <td class="middleField" onclick="if(finishFlag==0) sortList(0);" style="text-align:center;">
+  <section class="page-result">
+    <div class="container" id="battleResult">
+    </div>
+  </section>
 
-          idc tbh
-
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <br><br>
-
-  <div id="resultField" style="text-align: center;">
-    <br>
-  </div>
+  <footer class="page-footer">
+  </footer>
 
   <script type="text/javascript">
-    <!--
-
+    /**
+      * Initialize
+    **/
     initList();
-
-    showImage();
-
-    //-->
+    showFinal();
   </script>
 </body>
 </html>
