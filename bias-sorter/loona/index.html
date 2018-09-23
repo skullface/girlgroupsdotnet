@@ -3,6 +3,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
   <link rel="stylesheet" href="/assets/sorter.css">
   <title>LOOΠΔ bias sorter</title>
   <link rel="icon" type="image/png" href="../../moon.png">
@@ -10,64 +11,68 @@
   <script src="/assets/sorter.js"></script>
   <script type="text/javascript">
     var namMember = new Array(
-      "HeeJin 🐰<span class='heejin'>&#9734;</span>",
-      "HyunJin 🐱<span class='hyunjin'>&#9734;</span>",
-      "HaSeul 🕊<span class='haseul'>&#9734;</span>",
-      "ViVi 🦌<span class='vivi'>&#9734;</span>",
-      "YeoJin 🐸<span class='yeojin'>&#9734;</span>",
-      "Kim Lip 🦉<span class='lip'>&#9734;</span>",
-      "JinSoul 🐟<span class='soul'>&#9734;</span>",
-      "Choerry 🦇<span class='choerry'>&#9734;</span>",
-      "Yves 🍎<span class='yves'>&#9734;</span>",
-      "Chuu 🐧<span class='chuu'>&#9734;</span>",
-      "Go Won 🦋<span class='gowon'>&#9734;</span>",
-      "Olivia Hye 🐺<span class='olivia'>&#9734;</span>"
+      "HeeJin <span class='heart heejin'>🐰&#x2661;</span>",
+      "HyunJin <span class='heart hyunjin'>🐱&#x2661;</span>",
+      "HaSeul <span class='heart haseul'>🕊&#x2661;</span>",
+      "ViVi <span class='heart vivi'>🦌&#x2661;</span>",
+      "YeoJin <span class='heart yeojin'>🐸&#x2661;</span>",
+      "Kim Lip <span class='heart lip'>🦉&#x2661;</span>",
+      "JinSoul <span class='heart soul'>🐟&#x2661;</span>",
+      "Choerry <span class='heart choerry'>🦇&#x2661;</span>",
+      "Yves <span class='heart yves'>🍎&#x2661;</span>",
+      "Chuu <span class='heart chuu'>🐧&#x2661;</span>",
+      "Go Won <span class='heart gowon'>🦋&#x2661;</span>",
+      "Olivia Hye <span class='heart olivia'>🐺&#x2661;</span>"
     );
   </script>
 </head>
 
 <body>
-  <header class="page-header">
-    <strong>🌙  LOOΠΔ bias sorter</strong>
-    pick who you like better in each battle to get an accurate list of your favorite members from the group.<br>
-    🐰🐱🕊🐸🦌🦉🐟🦇🍎🐧🦋🐺
+  <header class="page-header container">
+    <h1>LOOΠΔ bias sorter</h1>
+    <p>
+      Choose your favorite member in each battle to get an accurate list of your favorite members from the group.
+      <br>🐰🐱🕊🐸🦌🦉🐟🦇🍎🐧🦋🐺
+    </p>
   </header>
 
   <main class="page-sorter">
-    <h2 id="battleNumber" class="sorter-header">
-      <strong>battle #1</strong> 0% sorted
-    </h2>
+    <div class="container">
+      <h2 id="battleNumber" class="sorter-header">
+        <strong>battle #1</strong> 0% sorted
+      </h2>
 
-    <div class="sorter-game">
-      <div class="main-battle">
-        <div id="optionA" onclick="if(finishFlag==0) sortList(-1);" class="sorter-option">
-          x
+      <div class="sorter-game">
+        <div class="main-battle">
+          <div id="optionA" onclick="if(finishFlag==0) sortList(-1);" class="sorter-option">
+            x
+          </div>
+          <span class="versus">vs</span>
+          <div id="optionB" onclick="if(finishFlag==0) sortList(1);" class="sorter-option">
+            y
+          </div>
         </div>
-        <span class="versus">vs</span>
-        <div id="optionB" onclick="if(finishFlag==0) sortList(1);" class="sorter-option">
-          y
+        <div onclick="if(finishFlag==0) sortList(0);" class="sorter-option option-tie">
+          it’s a tie!
         </div>
-      </div>
-      <div onclick="if(finishFlag==0) sortList(0);" class="sorter-option option-tie">
-        it’s a tie!
       </div>
     </div>
+  </main>
 
-    <div id="battleResult" class="sorter-result">
+  <section class="page-result">
+    <div class="container" id="battleResult">
     </div>
   </section>
 
   <footer class="page-footer">
   </footer>
 
-<div class="results-list"><h3>Best Girl</h3><ul><li><span class="number">1</span> HeeJin 🐰<span class="heejin">☆</span></li><li><span class="number">1</span> HyunJin 🐱<span class="hyunjin">☆</span></li><li><span class="number">1</span> HaSeul 🕊<span class="haseul">☆</span></li><li><span class="number">4</span> ViVi 🦌<span class="vivi">☆</span></li><li><span class="number">4</span> YeoJin 🐸<span class="yeojin">☆</span></li><li><span class="number">4</span> Kim Lip 🦉<span class="lip">☆</span></li><li><span class="number">7</span> JinSoul 🐟<span class="soul">☆</span></li><li><span class="number">7</span> Choerry 🦇<span class="choerry">☆</span></li><li><span class="number">7</span> Yves 🍎<span class="yves">☆</span></li><li><span class="number">10</span> Chuu 🐧<span class="chuu">☆</span></li><li><span class="number">10</span> Go Won 🦋<span class="gowon">☆</span></li><li><span class="number">10</span> Olivia Hye 🐺<span class="olivia">☆</span></li></ul></div>
-
   <script type="text/javascript">
     /**
       * Initialize
     **/
     initList();
-    showImage();
+    showFinal();
   </script>
 </body>
 </html>

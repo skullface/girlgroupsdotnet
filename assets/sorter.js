@@ -140,31 +140,31 @@ function sortList(flag){
       lstMember[parent[cmp1]][i] = rec[i];
     }
 
-  lstMember.pop();
-  lstMember.pop();
-  cmp1 = cmp1-2;
-  cmp2 = cmp2-2;
-  head1 = 0;
-  head2 = 0;
+    lstMember.pop();
+    lstMember.pop();
+    cmp1 = cmp1-2;
+    cmp2 = cmp2-2;
+    head1 = 0;
+    head2 = 0;
 
-  if (head1==0 && head2==0) {
-    for (i=0; i<namMember.length; i++) {
-      rec[i] = 0;
+    if (head1==0 && head2==0) {
+      for (i=0; i<namMember.length; i++) {
+        rec[i] = 0;
+      }
+      nrec = 0;
     }
-    nrec = 0;
   }
-}
 
-if (cmp1<0) {
-  str = "<strong>Round"+(numQuestion-1)+"</strong> ("+Math.floor(finishSize*100/totalSize)+"% complete)";
-  document.getElementById("battleNumber").innerHTML = str;
-  showResult();
-  finishFlag = 1;
-}
+  if (cmp1<0) {
+    str = "Round "+(numQuestion-1)+" ("+Math.floor(finishSize*100/totalSize)+"% complete)";
+    document.getElementById("battleNumber").innerHTML = str;
+    showResult();
+    finishFlag = 1;
+  }
 
-else {
-  showImage();
-}
+  else {
+    showFinal();
+  }
 }
 
 function showResult() {
@@ -173,7 +173,7 @@ var sameRank = 1;
 var str = "";
 var i;
 
-str += "<div class='results-list'><h3>Best Girl</h3><ul>";
+str += "<div class='results-list'><h2>Best Girl</h2><ul>";
 for (i=0; i<namMember.length; i++) {
   str += "<li><span class='number'>"+ranking+"</span> "+namMember[lstMember[0][i]]+"</li>";
 
@@ -193,8 +193,8 @@ str += "</ul>";
 document.getElementById("battleResult").innerHTML = str;
 }
 
-function showImage() {
-var str0 = "<strong>Round "+numQuestion+"</strong> ("+Math.floor(finishSize*100/totalSize)+"% complete)";
+function showFinal() {
+var str0 = "Round "+numQuestion+" ("+Math.floor(finishSize*100/totalSize)+"% complete)";
 var str1 = ""+toNameFace(lstMember[cmp1][head1]);
 var str2 = ""+toNameFace(lstMember[cmp2][head2]);
 

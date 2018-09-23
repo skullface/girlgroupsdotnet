@@ -1,13 +1,12 @@
 body {
+  color: #444;
+  background: #fff;
   margin: 0 auto 40px auto;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-}
-
-p {
-  max-width: 20rem;
-  margin: 20px auto;
-  text-align: center;
-  font-size: 12px;
+  font-family: 'Lato', 'Montserrat', sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 a {
@@ -19,18 +18,50 @@ a:hover {
   color: #8f8f8f;
 }
 
-img {
-  max-width: 12px;
-  max-height: 12px;
+h1,
+h2,
+p {
+  margin: 0;
 }
 
 h2 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
   font-weight: normal;
+  font-size: 1.5em;
+  color: #959da5;
 }
 
 /*
  * Layout
  */
+
+.container {
+ width: 80%;
+ max-width: 800px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.page-header {
+ margin-top: 20px;
+ margin-bottom: 60px;
+ font-size: 12px;
+ line-height: 1.66;
+}
+
+.page-result {
+  padding: 60px 0;
+  background-color: #fff;
+}
+
+.page-header h1 {
+  font-size: 12px;
+}
+
+.page-header p {
+  max-width: 44%;
+}
 
 
 /*
@@ -41,14 +72,25 @@ h2 {
    text-align: center;
  }
 
+ .sorter-header {
+   margin-bottom: 10px;
+ }
+
 .sorter-option {
   cursor: pointer;
-  border: dotted 2px red;
-  background: aliceblue;
+  font-size: 24px;
+  font-weight: bold;
+  background: #fff;
+  border-radius: 8px;
+  border: solid 2px #e1e4e8;
+  box-shadow: 0 3px 0 #e1e4e8;
 }
 
   .sorter-option:hover {
-    border-color: black;
+    background-color: #1b1f23;
+    border-color: #1b1f23;
+    color: #fff;
+    box-shadow: 0 3px 0 #1b1f23, 0 5px 12px rgba(0,0,0,0.1);
   }
 
 .main-battle {
@@ -61,7 +103,32 @@ h2 {
 
 .sorter-option#optionA,
 .sorter-option#optionB {
-  width: 45%;
+  width: 46%;
+}
+
+@media screen and (min-width: 700px) {
+  .sorter-option#optionA,
+  .sorter-option#optionB {
+    width: 45%;
+  }
+}
+
+.versus {
+  display: none;
+  letter-spacing: 1px;
+  color: #959da5;
+}
+
+@media screen and (min-width: 700px) {
+  .versus {
+    display: block;
+  }
+}
+
+.sorter-option .heart {
+  display: block;
+  font-weight: 400;
+  font-size: 16px;
 }
 
 .sorter-option:not(.option-tie) {
@@ -71,8 +138,9 @@ h2 {
 
 .sorter-option.option-tie {
   width: 100%;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  margin-top: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .results-list ul {
@@ -80,8 +148,10 @@ h2 {
   padding-left: 0;
 }
 
-.results-list li {
-  margin-bottom: 2px;
+.results-list li:not(:last-child) {
+  padding-bottom: 4px;
+  margin-bottom: 4px;
+  border-bottom: solid 1px #e1e4e8;
 }
 
 .number {
@@ -89,6 +159,7 @@ h2 {
   width: 20px;
   text-align: right;
   margin-right: 10px;
+  color: #959da5;
 }
 
 /*
