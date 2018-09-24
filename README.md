@@ -9,8 +9,8 @@ _fun stuff online regarding kpop girl groups `dot net`_
   * [ ] links
 * [ ] contributing.md
 * [ ] new `/more` page
-* [x] sorter visual update
-* [x] templatize sorters
+* [ ] sorter visual update
+* [ ] templatize sorters
 * [ ] move all `bias-sorter` static content to `bias-sorter`
 * [ ] move all `song-picker` static content to `song-sorter`
 * [ ] add in-page nav to loona song-sorters
