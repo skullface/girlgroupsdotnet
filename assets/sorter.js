@@ -173,7 +173,7 @@ var sameRank = 1;
 var str = "";
 var i;
 
-str += "<div class='results-list'><h2>Best Girl</h2><ul>";
+str += "<div class='results-list'><h2>Results</h2><ul>";
 for (i=0; i<namMember.length; i++) {
   str += "<li><span class='number'>"+ranking+"</span> "+namMember[lstMember[0][i]]+"</li>";
 
