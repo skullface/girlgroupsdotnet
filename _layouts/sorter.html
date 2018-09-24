@@ -1,0 +1,66 @@
+---
+layout: sorter
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/sorter.css">
+  <title>{{ page.group }} {{ page.type }} sorter</title>
+  <link rel="icon" type="image/png" href="/assets/moon.png">
+  <script src="/assets/sorter.js"></script>
+  {{ content }}
+</head>
+
+<body class="{% if page.type == 'bias' %}bias{% else %}song{% endif %}-sorter">
+  <header class="page-header container">
+    <h1>{{ page.group }} {{ page.type }} sorter</h1>
+    <p>
+      Choose your favorite {% if page.type == 'bias' %}member{% else %}song{% endif %} in each battle to get an accurate list of your favorite {% if page.type == 'bias' %}member{% else %}song{% endif %}s from the group.
+      {% if page.emoji %}<br>{{ page.emoji }}{% endif %}
+    </p>
+  </header>
+  <main class="page-sorter">
+    <div class="container">
+      <h2 id="battleNumber" class="sorter-header">
+        <strong>battle #1</strong> 0% sorted
+      </h2>
+
+      <div class="sorter-game">
+        <div class="main-battle">
+          <div id="optionA" onclick="if(finishFlag==0) sortList(-1);" class="sorter-option">
+            x
+          </div>
+          <span class="versus">vs</span>
+          <div id="optionB" onclick="if(finishFlag==0) sortList(1);" class="sorter-option">
+            y
+          </div>
+        </div>
+        <div onclick="if(finishFlag==0) sortList(0);" class="sorter-option option-tie">
+          it’s a tie!
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <section class="page-result">
+    <div class="container" id="battleResult">
+    </div>
+  </section>
+
+  <footer class="page-footer">
+  </footer>
+
+  <script type="text/javascript">
+    /**
+      * Initialize
+    **/
+    initList();
+    showFinal();
+  </script>
+</body>
+</html>
