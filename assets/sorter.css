@@ -114,6 +114,23 @@ h2 {
   justify-content: center;
 }
 
+  @media screen and (min-width: 500px) {
+    .song-sorter .sorter-option:not(.option-tie) {
+      padding-left: 60px;
+      padding-right: 60px;
+      min-height: 180px;
+      line-height: 1.4;
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+    .song-sorter .sorter-option:not(.option-tie) {
+      font-size: 18px;
+      padding-left: 16px;
+      padding-right: 16px;
+    }
+  }
+
   @media screen and (max-width: 500px) {
     .song-sorter .sorter-option {
       font-size: 16px;
@@ -146,7 +163,8 @@ h2 {
 .main-battle {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: stretch;
+  align-content: stretch;
   justify-content: space-between;
   margin-bottom: 1rem;
 }
@@ -171,7 +189,10 @@ h2 {
 
 @media screen and (min-width: 700px) {
   .versus {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }
 }
 
