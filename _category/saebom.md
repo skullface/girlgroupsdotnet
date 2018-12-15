@@ -1,0 +1,4 @@
+---
+tag: saebom
+permalink: /saebom
+---

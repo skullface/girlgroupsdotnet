@@ -1,0 +1,4 @@
+---
+tag: nature
+permalink: /nature
+---
