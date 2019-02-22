@@ -26,7 +26,7 @@ layout: sorter
       </p>
       <p>
         {% if page.type == 'song' %}
-          <a href="/song-sorter/{{ page.group | slugify }}/solos">solos only</a> • <a href="/song-sorter/{{ page.group | slugify }}/units">units only</a> • <a href="/song-sorter/{{ page.group | slugify }}/ot12">OT12 only</a> • <a href="titles">title tracks only</a> • <a href="/song-sorter/{{ page.group | slugify }}/purists">no intros/remixes</a> • <a href="/song-sorter/{{ page.group | slugify }}/b-sides">b-sides only</a>
+          <a href="/song-sorter/{{ page.group | slugify }}">all tracks</a> • <a href="/song-sorter/{{ page.group | slugify }}/solos">solos only</a> • <a href="/song-sorter/{{ page.group | slugify }}/units">units only</a> • <a href="/song-sorter/{{ page.group | slugify }}/ot12">OT12 only</a> • <a href="titles">title tracks only</a> • <a href="/song-sorter/{{ page.group | slugify }}/purists">no intros/remixes</a> • <a href="/song-sorter/{{ page.group | slugify }}/b-sides">b-sides only</a>
         {% endif %}
       </p>
     </div>

@@ -2,7 +2,7 @@
 layout: sorter
 type: song
 group: LOONA
-sortType: "purists (no intros or remixes)"
+sortType: "sub-unit songs only"
 emoji: 🐰🐱🕊🐸🦌🦉🐟🦇🍎🐧🦋🐺
 ---
 

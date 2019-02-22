@@ -2,7 +2,7 @@
 layout: sorter
 type: song
 group: LOONA
-sortType: "OT12"
+sortType: "title tracks only"
 emoji: 🐰🐱🕊🐸🦌🦉🐟🦇🍎🐧🦋🐺
 ---
 
