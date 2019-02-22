@@ -10,7 +10,7 @@ layout: sorter
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
   <link rel="stylesheet" href="/assets/sorter.css">
-  <title>{{ page.group }} {{ page.type }} sorter</title>
+  <title>{{ page.group }} {{ page.type }} sorter{% if page.sortType %} | {{ page.sortType }}{% endif %}</title>
   <link rel="icon" type="image/png" href="/assets/moon.png">
   <script src="/assets/sorter.js"></script>
   {{ content }}
@@ -19,10 +19,17 @@ layout: sorter
 <body class="{% if page.type == 'bias' %}bias{% else %}song{% endif %}-sorter">
   <header class="page-header container">
     <h1>{{ page.group }} {{ page.type }} sorter</h1>
-    <p>
-      Choose your favorite {% if page.type == 'bias' %}member{% else %}song{% endif %} in each battle to get an accurate list of your favorite {% if page.type == 'bias' %}member{% else %}song{% endif %}s from the group.
-      {% if page.emoji %}<br>{{ page.emoji }}{% endif %}
-    </p>
+    <div>
+      <p>
+        Choose your favorite {% if page.type == 'bias' %}member{% else %}song{% endif %} in each battle to get an accurate list of your favorite {% if page.type == 'bias' %}member{% else %}song{% endif %}s from the group.
+        {% if page.emoji %}<br>{{ page.emoji }}{% endif %}
+      </p>
+      <p>
+        {% if page.type == 'song' %}
+          <a href="/song-sorter/{{ page.group | slugify }}/solos">solos only</a> • <a href="/song-sorter/{{ page.group | slugify }}/units">units only</a> • <a href="/song-sorter/{{ page.group | slugify }}/ot12">OT12 only</a> • <a href="titles">title tracks only</a> • <a href="/song-sorter/{{ page.group | slugify }}/purists">no intros/remixes</a> • <a href="/song-sorter/{{ page.group | slugify }}/b-sides">b-sides only</a>
+        {% endif %}
+      </p>
+    </div>
   </header>
   <main class="page-sorter">
     <div class="container">

@@ -284,3 +284,16 @@ h2 {
 .olivia {
   color: #444;
 }
+
+.song-sorter .page-header div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.song-sorter .page-header div p a {
+  display: inline-block;
+}
+
+.song-sorter .page-header div p:last-child {
+  text-align: right;
+}
