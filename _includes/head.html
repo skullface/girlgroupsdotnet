@@ -12,29 +12,19 @@
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@12lesbians">
-  <meta name="twitter:creator" content="@12lesbians">
+  <meta name="twitter:site" content="@seultiny">
+  <meta name="twitter:creator" content="@seultiny">
   <meta name="twitter:title" content="{{ page.title | default: site.title }}">
-  {% if page.layout == 'text' %}
-    <meta name="twitter:image" content="{{ page.img }}">
-    <meta property="twitter:description" content="roundup of fan-recorded event content, don’t tell BBC">
-  {% else %}
-    <meta name="twitter:image" content="{{ site.url | append: site.social_logo_path }}">
-    <meta name="twitter:description" content="{{ page.description | default: site.description }}">
-  {% endif %}
+  <meta name="twitter:image" content="{{ site.url | append: site.social_logo_path }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
 
   <!-- Facebook -->
   <meta property="og:url" content="{{ site.url | append: page.url }}">
   <meta property="og:title" content="{{ page.title | default: site.title }}">
   <meta property="og:type" content="website">
   <meta property="og:image:secure_url" content="{{ site.url | append: site.social_image_path }}">
-  {% if page.layout == 'text' %}
-    <meta property="og:image" content="{{ page.img }}">
-    <meta property="og:description" content="roundup of fan-recorded event content, don’t tell BBC">
-  {% else %}
-    <meta property="og:image" content="{{ site.url | append: site.social_image_path }}">
-    <meta property="og:description" content="{{ page.description | default: site.description }}">
-  {% endif %}
+  <meta property="og:image" content="{{ site.url | append: site.social_image_path }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
 </head>
 
 <body>
@@ -50,7 +40,10 @@
             <a href="/all">view all tags</a>
           </li>
           <li>
-            <a href="/more">other</a>
+            <a href="https://orbits.club">ORBITS.CLUB</a>
+          </li>
+          <li>
+            <a href="https://loonaverse.com">LOOΠΔVERSE.COM</a> 
           </li>
         </ul>
       </nav>
