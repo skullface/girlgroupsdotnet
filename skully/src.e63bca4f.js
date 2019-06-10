@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./style.scss");
 },{"./style.scss":"91zb"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.e63bca4f.js.map
+//# sourceMappingURL=src.e63bca4f.js.map
